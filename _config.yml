@@ -1,11 +1,11 @@
 title: Ryan Burns # website title here
 logo: "/images/Headshot.jpg?raw=true" # photo or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Master of Science in Data Science candidate at Northwestern University (expected May '22) completing the Artificial Intelligence Specialization.
+  M.S. in Data Science candidate at Northwestern University completing the Artificial Intelligence Specialization (expected May 2022).
   <br><br>
   I am actively seeking a data-focused role as a data analyst, engineer, or scientist and am eager to tackle compelling business problems in a novel environment.
   <br><br>
   <a href="https://www.linkedin.com/in/ryanmburns93/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+google_analytics: G-FRX1KQFP64
