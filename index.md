@@ -25,8 +25,8 @@ This project is a case study on developing NLP applications in a low-resource co
 ### PDGA Prediction Modeling Utility Scripts
 
 I co-authored a blog series hosted on Ultiworld Disc Golf predicting disc golf player performance at elite series events. I contributed player performance web scraping and GIS data collection capabilities, cleaned and preprocessed data, and edited post content. The scripts hosted in this repository demonstrate some of the larger data collection efforts feeding parts of the model. This was my first time ever using Python, and I am in the process of revisiting the files to spruce up the content. 
-<br></br>
-The blog posts are linked in the [Writing section](#writing-papers-and-blogs) of this portfolio. 
+
+The blog posts are available on the [Ultiworld Disc Golf website](https://discgolf.ultiworld.com/author/rburns/).
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ryanmburns93/pdga_predictions_ml_scraping)
 <a href="https://www.codefactor.io/repository/github/ryanmburns93/pdga_predictions_ml_scraping" alt="CodeFactor Repo Grade">
