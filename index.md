@@ -31,6 +31,5 @@ The blog posts are linked in the [Writing section](#writing-papers-and-blogs) of
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ryanmburns93/pdga_predictions_ml_scraping)
 <a href="https://www.codefactor.io/repository/github/ryanmburns93/pdga_predictions_ml_scraping" alt="CodeFactor Repo Grade">
       <img src="https://img.shields.io/codefactor/grade/github/ryanmburns93/pdga_predictions_ml_scraping" /></a>
-<center><!img src="images/dummy_thumbnail.jpg?raw=true"/></center>
 
 ---
