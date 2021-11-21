@@ -29,6 +29,8 @@ I am the lucky fiancé to the owner of [The Beverly Collective](https://www.theb
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ryanmburns93/Sales_Reporting_Automation)
 <a href="https://www.codefactor.io/repository/github/ryanmburns93/sales_reporting_automation" alt="CodeFactor Repo Grade">
       <img src="https://img.shields.io/codefactor/grade/github/sales_reporting_automation" /></a>
+<a href="https://www.codefactor.io/repository/github/ryanmburns93/sales_reporting_automation" alt="CodeFactor Repo Grade">
+      <img src="https://www.codefactor.io/repository/github/ryanmburns93/sales_reporting_automation/badge" /></a>
 
 ---
 
