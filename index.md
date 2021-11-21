@@ -7,8 +7,7 @@
 I developed this toolkit to automate the collection of video recordings, recording metadata, and transcripts from a variety of different video conference, video hosting, and transcription service platforms. I personally utilized the tools during my four years working in client relationship management remotely supporting a territory containing hundreds of clients.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ryanmburns93/web_scraping_tools)
-<a href="https://www.codefactor.io/repository/github/ryanmburns93/web_scraping_tools" alt="CodeFactor Repo Grade">
-        <img src="https://img.shields.io/codefactor/grade/github/ryanmburns93/web_scraping_tools" /></a>
+<a href="https://www.codefactor.io/repository/github/ryanmburns93/web_scraping_tools"><img src="https://www.codefactor.io/repository/github/ryanmburns93/web_scraping_tools/badge" alt="CodeFactor Repo Grade" /></a>
 
 ---
 
@@ -17,8 +16,7 @@ I developed this toolkit to automate the collection of video recordings, recordi
 This project is a case study on developing NLP applications in a low-resource corporate environment operating a client-centric, service-based business model. I pretrained miniature BERT masked language models on domain-adapted vocabulary sourced from client-facing research documents. I demonstrated light improvements in model performance over baseline when finetuned to categorize client consultation requests by topic.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ryanmburns93/NLP_Case_Study)
-<a href="https://www.codefactor.io/repository/github/ryanmburns93/nlp_case_study" alt="CodeFactor Repo Grade">
-      <img src="https://img.shields.io/codefactor/grade/github/ryanmburns93/NLP_Case_Study" /></a>
+<a href="https://www.codefactor.io/repository/github/ryanmburns93/nlp_case_study"><img src="https://www.codefactor.io/repository/github/ryanmburns93/nlp_case_study/badge" alt="CodeFactor Repo Grade" /></a>
 
 ---
 
@@ -27,10 +25,7 @@ This project is a case study on developing NLP applications in a low-resource co
 I am the lucky fiancé to the owner of [The Beverly Collective](https://www.thebeverlycollective.co/), and I built this program to reduce the manual workload of sending out biweekly sales reports emails to the 20+ artists and makers vending through the collective. I completed coding this program in less than 5 hours and reduced the hourly workload from 10 hours per month to only 2 hours focused on email validation, payment processing, and vendor support each month. I successfully leveraged the Gmail API to gather user permissions and create email drafts within the user email and consumed Excel files into the Python-based program using the OpenPyxl library.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ryanmburns93/Sales_Reporting_Automation)
-<a href="https://www.codefactor.io/repository/github/ryanmburns93/sales_reporting_automation" alt="CodeFactor Repo Grade">
-      <img src="https://img.shields.io/codefactor/grade/github/sales_reporting_automation" /></a>
-<a href="https://www.codefactor.io/repository/github/ryanmburns93/sales_reporting_automation" alt="CodeFactor Repo Grade">
-      <img src="https://www.codefactor.io/repository/github/ryanmburns93/sales_reporting_automation/badge" /></a>
+<a href="https://www.codefactor.io/repository/github/ryanmburns93/sales_reporting_automation"><img src="https://www.codefactor.io/repository/github/ryanmburns93/sales_reporting_automation/badge" alt="CodeFactor Repo Grade" /></a>
 
 ---
 
@@ -41,7 +36,6 @@ I co-authored a blog series hosted on Ultiworld Disc Golf predicting disc golf p
 The blog posts are available on the [Ultiworld Disc Golf website](https://discgolf.ultiworld.com/author/rburns/).
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ryanmburns93/pdga_predictions_ml_scraping)
-<a href="https://www.codefactor.io/repository/github/ryanmburns93/pdga_predictions_ml_scraping" alt="CodeFactor Repo Grade">
-      <img src="https://img.shields.io/codefactor/grade/github/ryanmburns93/pdga_predictions_ml_scraping" /></a>
+<a href="https://www.codefactor.io/repository/github/ryanmburns93/pdga_predictions_ml_scraping"><img src="https://www.codefactor.io/repository/github/ryanmburns93/pdga_predictions_ml_scraping/badge" alt="CodeFactor Repo Grade" /></a>
 
 ---
