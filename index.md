@@ -1,6 +1,6 @@
 ## Portfolio Projects & Repositories
 
-<details><summary style="font-size: 150%;">Recording and Transcription Web Scraping Toolkit</summary>
+<details><summary style="font-size: 120%;"><b>Recording and Transcription Web Scraping Toolkit</b></summary>
 
 <p>
 
@@ -8,6 +8,7 @@ I developed this toolkit to automate the collection of video recordings, recordi
 </p>
 </details>
 
+<br></br>
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ryanmburns93/web_scraping_tools)
 <a href="https://www.codefactor.io/repository/github/ryanmburns93/web_scraping_tools"><img src="https://www.codefactor.io/repository/github/ryanmburns93/web_scraping_tools/badge" alt="CodeFactor Repo Grade" /></a>
 
