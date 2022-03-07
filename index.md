@@ -1,4 +1,5 @@
-## Portfolio Projects & Repositories
+
+## Project Portfolio
 
 <details><summary style="font-size: 120%;"><b>Recording and Transcription Web Scraping Toolkit</b></summary>
 <p>
@@ -6,7 +7,7 @@
 I developed this toolkit to automate the collection of video recordings, recording metadata, and transcripts from a variety of different video conference, video hosting, and transcription service platforms. I personally utilized the tools during my four years working in client relationship management remotely supporting a territory containing hundreds of clients.
 </p>
 </details>
-<br>
+
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ryanmburns93/web_scraping_tools)
 <a href="https://www.codefactor.io/repository/github/ryanmburns93/web_scraping_tools"><img src="https://www.codefactor.io/repository/github/ryanmburns93/web_scraping_tools/badge" alt="CodeFactor Repo Grade" /></a>
 
