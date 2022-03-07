@@ -1,6 +1,4 @@
-# Portfolio
-
-## Project Repositories
+## Portfolio Projects & Repositories
 
 ### Recording and Transcription Web Scraping Toolkit
 
