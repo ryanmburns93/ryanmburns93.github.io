@@ -1,6 +1,18 @@
 
 ## Project Portfolio
 
+<details><summary style="font-size: 120%;"><b>CoStar Property Data Scraping</b></summary>
+<p>
+<br>
+This project sought to collect over forty attributes for more than 850 competitor multi-family apartment home properties from the [CoStar property research platform](https://www.costar.com/). The program achieved data collection, cleansing, and injection into storage in less than eight minutes start to finish. CoStar recently updated the service's Terms of Use to explicitly prohibit the web scraping techniques and reverse-engineering of the CoStar product utilized in this program. I ultimately led the project in an alternate direction to acquire similar data while keeping the business in compliance with CoStar's Terms of Use, and have shared the original program as proof of work.
+</p>
+</details>
+<br>
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ryanmburns93/CoStar_Property_Data_Scraping)
+<a href="https://www.codefactor.io/repository/github/ryanmburns93/CoStar_Property_Data_Scraping"><img src="https://www.codefactor.io/repository/github/ryanmburns93/CoStar_Property_Data_Scraping/badge" alt="CodeFactor Repo Grade" /></a>
+
+---
+
 <details><summary style="font-size: 120%;"><b>Recording and Transcription Web Scraping Toolkit</b></summary>
 <p>
 <br>
