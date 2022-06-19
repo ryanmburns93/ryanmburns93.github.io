@@ -1,9 +1,9 @@
 ## Resume
 Last updated June 17th, 2022.
 
-<object data="https://ryanmburns93.github.io/pdf/Ryan_Burns_Resume_2022.pdf" type="application/pdf" width="800px" height="850px">
+<object data="https://ryanmburns93.github.io/pdf/Ryan_Burns_Resume_2022.pdf" type="application/pdf" width="800px" height="1075px">
     <embed src="https://drive.google.com/viewerng/
-viewer?embedded=true&url=https://ryanmburns93.github.io/pdf/Ryan_Burns_Resume_2022.pdf#view=FitW" width="800px" height="1000px" />
+viewer?embedded=true&url=https://ryanmburns93.github.io/pdf/Ryan_Burns_Resume_2022.pdf#view=FitW" width="800px" height="1075px" />
         <p>This browser does not support PDFs. Please download the PDF to view it using the link at the bottom of this page.</p>
     </embed>
 </object>
