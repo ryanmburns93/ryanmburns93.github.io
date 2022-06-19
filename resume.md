@@ -1,3 +1,7 @@
+layout: page
+title: "Resume"
+permalink: /resume/
+
 ## Resume
 Last updated June 17th, 2022.
 
