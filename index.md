@@ -11,7 +11,7 @@ This project sought to collect over forty attributes for more than 850 competito
 <a href="https://github.com/ryanmburns93/CoStar_Property_Data_Scraping"><img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub"></a>
 <a href="https://www.codefactor.io/repository/github/ryanmburns93/CoStar_Property_Data_Scraping"><img src="https://www.codefactor.io/repository/github/ryanmburns93/CoStar_Property_Data_Scraping/badge" alt="CodeFactor Repo Grade" /></a>
 
----
+<hr>
 
 <details><summary style="font-size: 120%;"><b>NLP Miniature BERT Model Case Study</b></summary>
 <p>
@@ -23,7 +23,7 @@ This project is a case study on developing NLP applications in a low-resource co
 <a href="https://github.com/ryanmburns93/NLP_Case_Study"><img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub"></a>
 <a href="https://www.codefactor.io/repository/github/ryanmburns93/nlp_case_study"><img src="https://www.codefactor.io/repository/github/ryanmburns93/nlp_case_study/badge" alt="CodeFactor Repo Grade" /></a>
 
----
+<hr>
 
 <details><summary style="font-size: 120%;"><b>AutoML Demo with DataRobot</b></summary>
 <p>
@@ -35,7 +35,7 @@ I created a tutorial and video demonstration of the automatic machine learning (
 <a href="https://github.com/ryanmburns93/DataRobot_Demo"><img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub"></a>
 <a href="https://www.codefactor.io/repository/github/ryanmburns93/datarobot_demo"><img src="https://www.codefactor.io/repository/github/ryanmburns93/datarobot_demo/badge" alt="CodeFactor Repo Grade" /></a>
 
----
+<hr>
 
 <details><summary style="font-size: 120%;"><b>Recording and Transcription Web Scraping Toolkit</b></summary>
 <p>
@@ -47,7 +47,7 @@ I developed this toolkit to automate the collection of video recordings, recordi
 <a href="https://github.com/ryanmburns93/web_scraping_tools"><img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub"></a>
 <a href="https://www.codefactor.io/repository/github/ryanmburns93/web_scraping_tools"><img src="https://www.codefactor.io/repository/github/ryanmburns93/web_scraping_tools/badge" alt="CodeFactor Repo Grade" /></a>
 
----
+<hr>
 
 <details><summary style="font-size: 120%;"><b>Biweekly Sales Reporting Automations</b></summary>
 <p>
@@ -59,7 +59,7 @@ I am the lucky fiancé to the owner of <a href="https://www.thebeverlycollective
 <a href="https://github.com/ryanmburns93/Sales_Reporting_Automation"><img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub"></a>
 <a href="https://www.codefactor.io/repository/github/ryanmburns93/sales_reporting_automation"><img src="https://www.codefactor.io/repository/github/ryanmburns93/sales_reporting_automation/badge" alt="CodeFactor Repo Grade" /></a>
 
----
+<hr>
 
 <details><summary style="font-size: 120%;"><b>PDGA Prediction Modeling Utility Scripts</b></summary>
 <p>
