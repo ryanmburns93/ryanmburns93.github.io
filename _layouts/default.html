@@ -21,7 +21,7 @@
 	  gtag('config', 'G-FRX1KQFP64');
 	</script>
   </head>
-  <body>
+  <body style="overflow: hidden;">
     <div class="wrapper">
       <header>
         <h1 style="text-align:center;"><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
@@ -51,7 +51,7 @@
       <section>
         {% include nav.html %}
       </section>
-      <section>
+      <section style="overflow: auto; height: calc(100vh * 0.7);">
         {{ content }}
       </section>
 
