@@ -1,3 +1,7 @@
+---
+title: resume
+---
+
 <section>
 <h2>Resume</h2>
 Last updated June 17th, 2022.

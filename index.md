@@ -1,3 +1,7 @@
+---
+title: index
+---
+
 <section style="overflow: auto; height: calc(100vh * 0.7);">
 <h2>Project Portfolio</h2>
 
