@@ -1,4 +1,5 @@
-## Project Portfolio
+<section style="overflow: auto; height: calc(100vh * 0.7);">
+<h2>Project Portfolio</h2>
 
 <details><summary style="font-size: 120%;"><b>CoStar Property Data Scraping</b></summary>
 <p>
@@ -72,3 +73,4 @@ The blog posts are available on the <a href="https://discgolf.ultiworld.com/auth
 <a href="https://github.com/ryanmburns93/pdga_predictions_ml_scraping"><img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub"></a>
 <a href="https://www.codefactor.io/repository/github/ryanmburns93/pdga_predictions_ml_scraping"><img src="https://www.codefactor.io/repository/github/ryanmburns93/pdga_predictions_ml_scraping/badge" alt="CodeFactor Repo Grade" /></a>
 <hr style="margin: 0 0 0px;">
+</section>
