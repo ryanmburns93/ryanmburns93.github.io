@@ -25,7 +25,7 @@ title: default
 	  gtag('config', 'G-FRX1KQFP64');
 	</script>
   </head>
-  <body style="{{ page.page_scroll_style }}">
+  <body style="{{ page.scroll_style }}">
     <div class="wrapper">
       <header>
         <h1 style="text-align:center;"><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
@@ -55,7 +55,9 @@ title: default
       <section>
         {% include nav.html %}
       </section>
+      <section style="{{ page.section_style}}">
         {{ content }}
+      </section>
 
       <footer class='site-footer'>
         &copy; Ryan Burns 2022
