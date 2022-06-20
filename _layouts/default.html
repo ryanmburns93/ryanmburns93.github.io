@@ -50,8 +50,7 @@
       </header>
       <section>
         {% include nav.html %}
-        {% for statfile in site.static_files %}
-          {{ statfile.name }}
+        {{ page.title }}
       </section>
         {{ content }}
 
