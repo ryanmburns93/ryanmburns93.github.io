@@ -1,4 +1,3 @@
-
 ## Project Portfolio
 
 <details><summary style="font-size: 120%;"><b>CoStar Property Data Scraping</b></summary>
