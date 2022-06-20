@@ -1,5 +1,6 @@
 ---
 title: resume
+page_scroll_style: "overflow: hidden;"
 ---
 
 <section>

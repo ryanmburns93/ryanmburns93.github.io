@@ -25,7 +25,7 @@ title: default
 	  gtag('config', 'G-FRX1KQFP64');
 	</script>
   </head>
-  <body style="overflow: hidden;">
+  <body style="{{ page.page_scroll_style }}">
     <div class="wrapper">
       <header>
         <h1 style="text-align:center;"><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
@@ -54,7 +54,6 @@ title: default
       </header>
       <section>
         {% include nav.html %}
-        {{ page.title }}
       </section>
         {{ content }}
 

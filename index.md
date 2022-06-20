@@ -1,5 +1,6 @@
 ---
 title: index
+page_scroll_style: "overflow: hidden;"
 ---
 
 <section style="overflow: auto; height: calc(100vh * 0.7);">
