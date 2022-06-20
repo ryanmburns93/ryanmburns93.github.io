@@ -7,20 +7,8 @@ This project sought to collect over forty attributes for more than 850 competito
 </p>
 </details>
 <br>
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ryanmburns93/CoStar_Property_Data_Scraping)
+<a href="https://github.com/ryanmburns93/CoStar_Property_Data_Scraping"><img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub"></a>
 <a href="https://www.codefactor.io/repository/github/ryanmburns93/CoStar_Property_Data_Scraping"><img src="https://www.codefactor.io/repository/github/ryanmburns93/CoStar_Property_Data_Scraping/badge" alt="CodeFactor Repo Grade" /></a>
-
----
-
-<details><summary style="font-size: 120%;"><b>Recording and Transcription Web Scraping Toolkit</b></summary>
-<p>
-<br>
-I developed this toolkit to automate the collection of video recordings, recording metadata, and transcripts from a variety of different video conference, video hosting, and transcription service platforms. I personally utilized the tools during my four years working in client relationship management remotely supporting a territory containing hundreds of clients.
-</p>
-</details>
-<br>
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ryanmburns93/web_scraping_tools)
-<a href="https://www.codefactor.io/repository/github/ryanmburns93/web_scraping_tools"><img src="https://www.codefactor.io/repository/github/ryanmburns93/web_scraping_tools/badge" alt="CodeFactor Repo Grade" /></a>
 
 ---
 
@@ -31,8 +19,32 @@ This project is a case study on developing NLP applications in a low-resource co
 </p>
 </details>
 <br>
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ryanmburns93/NLP_Case_Study)
+<a href="https://github.com/ryanmburns93/NLP_Case_Study"><img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub"></a>
 <a href="https://www.codefactor.io/repository/github/ryanmburns93/nlp_case_study"><img src="https://www.codefactor.io/repository/github/ryanmburns93/nlp_case_study/badge" alt="CodeFactor Repo Grade" /></a>
+
+---
+
+<details><summary style="font-size: 120%;"><b>AutoML Demo with DataRobot</b></summary>
+<p>
+<br>
+I created a tutorial and video demonstration of the automatic machine learning (AutoML) tool DataRobot. The tutorial provides a simple demonstration of DataRobot integration into a project applying sentiment analysis to daily chatbot message data to rank order prospect follow-up outreach conducted the following day. The final application can be viewed in the separate <a href="https://github.com/ryanmburns93/Prospect_Ranked_Followup_App">Prospect Ranked Follow-up Application</a> repository.
+</p>
+</details>
+<br>
+<a href="https://github.com/ryanmburns93/DataRobot_Demo"><img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub"></a>
+<a href="https://www.codefactor.io/repository/github/ryanmburns93/datarobot_demo"><img src="https://www.codefactor.io/repository/github/ryanmburns93/datarobot_demo/badge" alt="CodeFactor Repo Grade" /></a>
+
+---
+
+<details><summary style="font-size: 120%;"><b>Recording and Transcription Web Scraping Toolkit</b></summary>
+<p>
+<br>
+I developed this toolkit to automate the collection of video recordings, recording metadata, and transcripts from a variety of different video conference, video hosting, and transcription service platforms. I personally utilized the tools during my four years working in client relationship management remotely supporting a territory containing hundreds of clients.
+</p>
+</details>
+<br>
+<a href="https://github.com/ryanmburns93/web_scraping_tools"><img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub"></a>
+<a href="https://www.codefactor.io/repository/github/ryanmburns93/web_scraping_tools"><img src="https://www.codefactor.io/repository/github/ryanmburns93/web_scraping_tools/badge" alt="CodeFactor Repo Grade" /></a>
 
 ---
 
@@ -43,7 +55,7 @@ I am the lucky fiancé to the owner of <a href="https://www.thebeverlycollective
 </p>
 </details>
 <br>
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ryanmburns93/Sales_Reporting_Automation)
+<a href="https://github.com/ryanmburns93/Sales_Reporting_Automation"><img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub"></a>
 <a href="https://www.codefactor.io/repository/github/ryanmburns93/sales_reporting_automation"><img src="https://www.codefactor.io/repository/github/ryanmburns93/sales_reporting_automation/badge" alt="CodeFactor Repo Grade" /></a>
 
 ---
@@ -57,5 +69,6 @@ The blog posts are available on the <a href="https://discgolf.ultiworld.com/auth
 </p>
 </details>
 <br>
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ryanmburns93/pdga_predictions_ml_scraping)
+<a href="https://github.com/ryanmburns93/pdga_predictions_ml_scraping"><img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub"></a>
 <a href="https://www.codefactor.io/repository/github/ryanmburns93/pdga_predictions_ml_scraping"><img src="https://www.codefactor.io/repository/github/ryanmburns93/pdga_predictions_ml_scraping/badge" alt="CodeFactor Repo Grade" /></a>
+<hr style="margin: 0 0 0px;">
