@@ -26,8 +26,8 @@ title: default
 	</script>
   </head>
   <body style="{{ page.scroll_style }}">
-    <div class="wrapper">
-      <header>
+    <div class="wrapper" style="display: flex; flex-direction: row; flex-wrap: nowrap;">
+      <header style="flex: 50%;">
         <h1 style="text-align:center;"><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
         
         {% if site.logo %}
@@ -52,12 +52,14 @@ title: default
         </ul>
         {% endif %}
       </header>
-      <section>
-        {% include nav.html %}
-      </section>
-      <section style="{{ page.section_style}}">
-        {{ content }}
-      </section>
+      <div style="display: flex; flex-direction: column; flex: 50%;">
+        <section>
+          {% include nav.html %}
+        </section>
+        <section style="{{ page.section_style}}">
+          {{ content }}
+        </section>
+      </div>
 
       <footer class='site-footer'>
         &copy; Ryan Burns 2022
