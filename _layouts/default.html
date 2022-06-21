@@ -27,7 +27,7 @@ title: default
   </head>
   <body style="{{ page.scroll_style }}">
     <div class="wrapper" style="display: flex; flex-direction: row; flex-wrap: nowrap;">
-      <header style="flex: 50%;">
+      <header style="margin-right: auto;">
         <h1 style="text-align:center;"><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
         
         {% if site.logo %}
@@ -52,7 +52,7 @@ title: default
         </ul>
         {% endif %}
       </header>
-      <div style="display: flex; flex-direction: column; flex: 50%;">
+      <div style="display: flex; flex-direction: column; margin-left: auto;">
         <section>
           {% include nav.html %}
         </section>
