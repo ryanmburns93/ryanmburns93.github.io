@@ -13,4 +13,13 @@ section {
 * {
     box-sizing: border-box;
   }
+
+html,body {
+    height: 100%;
+    overflow: hidden;
+}
+body{
+    overflow: auto;
+}
+
 /*https://mrmarchant.com/editing-jekyll-theme-css-for-github-pages/ */
