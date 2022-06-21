@@ -29,6 +29,10 @@ body {
     display: none; /* for Chrome, Safari, and Opera */
   }
 
+header {
+    width: auto;
+}
+
   @media print, screen
 header {
     padding-right: 5vw;
