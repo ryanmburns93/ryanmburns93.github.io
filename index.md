@@ -11,7 +11,7 @@ This project sought to collect over forty attributes for more than 850 competito
 </p>
 </details>
 <br>
-<a href="https://github.com/ryanmburns93/CoStar_Property_Data_Scraping"><img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub"></a>
+<a href="https://github.com/ryanmburns93/CoStar_Property_Data_Scraping"><img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub" class="GH-Badge"></a>
 <a href="https://www.codefactor.io/repository/github/ryanmburns93/CoStar_Property_Data_Scraping"><img src="https://www.codefactor.io/repository/github/ryanmburns93/CoStar_Property_Data_Scraping/badge" alt="CodeFactor Repo Grade" /></a>
 
 <hr>
@@ -23,7 +23,7 @@ This project is a case study on developing NLP applications in a low-resource co
 </p>
 </details>
 <br>
-<a href="https://github.com/ryanmburns93/NLP_Case_Study"><img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub"></a>
+<a href="https://github.com/ryanmburns93/NLP_Case_Study"><img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub" class="GH-Badge"></a>
 <a href="https://www.codefactor.io/repository/github/ryanmburns93/nlp_case_study"><img src="https://www.codefactor.io/repository/github/ryanmburns93/nlp_case_study/badge" alt="CodeFactor Repo Grade" /></a>
 
 <hr>
@@ -35,8 +35,8 @@ I created a tutorial and video demonstration of the automatic machine learning (
 </p>
 </details>
 <br>
-<a href="https://github.com/ryanmburns93/DataRobot_Demo"><img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub"></a>
-<a href="https://www.codefactor.io/repository/github/ryanmburns93/datarobot_demo"><img src="https://www.codefactor.io/repository/github/ryanmburns93/datarobot_demo/badge" alt="CodeFactor Repo Grade" /></a>
+<a href="https://github.com/ryanmburns93/DataRobot_Demo"><img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub" class="GH-Badge"></a>
+<a href="https://www.codefactor.io/repository/github/ryanmburns93/datarobot_demo"><img src="https://www.codefactor.io/repository/github/ryanmburns93/datarobot_demo/badge" alt="CodeFactor Repo Grade" class="CF-Badge"/></a>
 
 <hr>
 
@@ -47,8 +47,8 @@ I developed this toolkit to automate the collection of video recordings, recordi
 </p>
 </details>
 <br>
-<a href="https://github.com/ryanmburns93/web_scraping_tools"><img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub"></a>
-<a href="https://www.codefactor.io/repository/github/ryanmburns93/web_scraping_tools"><img src="https://www.codefactor.io/repository/github/ryanmburns93/web_scraping_tools/badge" alt="CodeFactor Repo Grade" /></a>
+<a href="https://github.com/ryanmburns93/web_scraping_tools"><img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub" class="GH-Badge"></a>
+<a href="https://www.codefactor.io/repository/github/ryanmburns93/web_scraping_tools"><img src="https://www.codefactor.io/repository/github/ryanmburns93/web_scraping_tools/badge" alt="CodeFactor Repo Grade" class="CF-Badge"/></a>
 
 <hr>
 
@@ -59,8 +59,8 @@ I am the lucky fiancé to the owner of <a href="https://www.thebeverlycollective
 </p>
 </details>
 <br>
-<a href="https://github.com/ryanmburns93/Sales_Reporting_Automation"><img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub"></a>
-<a href="https://www.codefactor.io/repository/github/ryanmburns93/sales_reporting_automation"><img src="https://www.codefactor.io/repository/github/ryanmburns93/sales_reporting_automation/badge" alt="CodeFactor Repo Grade" /></a>
+<a href="https://github.com/ryanmburns93/Sales_Reporting_Automation"><img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub" class="GH-Badge"></a>
+<a href="https://www.codefactor.io/repository/github/ryanmburns93/sales_reporting_automation"><img src="https://www.codefactor.io/repository/github/ryanmburns93/sales_reporting_automation/badge" alt="CodeFactor Repo Grade" class="CF-Badge"/></a>
 
 <hr>
 
@@ -73,6 +73,6 @@ The blog posts are available on the <a href="https://discgolf.ultiworld.com/auth
 </p>
 </details>
 <br>
-<a href="https://github.com/ryanmburns93/pdga_predictions_ml_scraping"><img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub"></a>
-<a href="https://www.codefactor.io/repository/github/ryanmburns93/pdga_predictions_ml_scraping"><img src="https://www.codefactor.io/repository/github/ryanmburns93/pdga_predictions_ml_scraping/badge" alt="CodeFactor Repo Grade" /></a>
+<a href="https://github.com/ryanmburns93/pdga_predictions_ml_scraping"><img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub" class="GH-Badge"></a>
+<a href="https://www.codefactor.io/repository/github/ryanmburns93/pdga_predictions_ml_scraping"><img src="https://www.codefactor.io/repository/github/ryanmburns93/pdga_predictions_ml_scraping/badge" alt="CodeFactor Repo Grade" class="CF-Badge"/></a>
 <hr style="margin: 0 0 0px;">
