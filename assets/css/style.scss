@@ -3,7 +3,8 @@
 
 @import "{{ site.theme }}";
 h2 {
-    margin: 0 0 10px
+    margin: 0 0 10px;
+    font-size: 2.501vh;
 }
 
 section {
@@ -36,5 +37,11 @@ body {
 header,p {
   font-size: 1.91vh;
 }
+
+h1 {
+  font-size: 4.34vh
+}
+
+
 
 /*https://mrmarchant.com/editing-jekyll-theme-css-for-github-pages/ */
