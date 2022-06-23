@@ -1,5 +1,12 @@
 <p style="text-align: center; background-color: white; font-size: 150%;">
-    <a href="{{site.baseurl}}/">Projects</a> |
+    {% if page.title == "Project Portfolio" %}
+    <a href="{{site.baseurl}}/"><bold>Projects</bold></a> |
     <a href="{{site.baseurl}}/resume">Resume</a>
+    {% endif %}
+
+    {% if page.title == "Resume" %}
+    <a href="{{site.baseurl}}/">Projects</a> |
+    <a href="{{site.baseurl}}/resume"><bold>Resume</bold></a>
+    {% endif %}
 </p>
 <h2>{{ page.title }}</h2>
