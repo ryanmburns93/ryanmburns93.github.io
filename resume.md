@@ -1,7 +1,7 @@
 ---
 title: Resume
 scroll_style:
-section_style: 
+section_style: "width: auto"
 ---
 
 
