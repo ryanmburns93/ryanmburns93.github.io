@@ -51,6 +51,10 @@ title: default
           <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
         </ul>
         {% endif %}
+
+        <footer>
+          &copy; Ryan Burns 2022
+        </footer>
       </header>
       <div style="display: flex; flex-direction: column; margin-left: auto; width: 75%">
         <section style="width: auto;">
@@ -60,22 +64,7 @@ title: default
           {{ content }}
         </section>
       </div>
-      <div>
-
-      </div>
-
-      <footer class='site-footer'>
-        &copy; Ryan Burns 2022
-        
-        {% if site.github.is_project_page %}
-        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
-
-      </footer>
     </div>
-    <div>
-
-    </div>  
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
   </body>
 </html>
