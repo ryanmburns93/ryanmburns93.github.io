@@ -4,7 +4,7 @@ scroll_style: "overflow: hidden;"
 section_style: "overflow: auto; height: calc(100vh * 0.7); width: auto;"
 ---
 
-<details><summary style="font-size: 120%;"><b>CoStar Property Data Scraping</b></summary>
+<details><summary><b>CoStar Property Data Scraping</b></summary>
 <p>
 <br>
 This project sought to collect over forty attributes for more than 850 competitor multi-family apartment home properties from the <a href="https://www.costar.com/">CoStar property research platform</a>. The program achieved data collection, cleansing, and injection into storage in less than eight minutes start to finish. CoStar recently updated the service's <a href="https://www.costar.com/about/terms-conditions">Terms of Use</a> to explicitly prohibit the web scraping techniques and reverse-engineering of the CoStar product utilized in this program. I ultimately led the project in an alternate direction to acquire similar data while keeping the business in compliance with CoStar's Terms of Use, and have shared the original program as proof of work.
