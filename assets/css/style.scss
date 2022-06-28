@@ -9,6 +9,9 @@ h2 {
 
 section {
     padding-bottom: 30px;
+    padding-top: 0px;
+    margin: 0px;
+    border-width: 0px;
 }
 
 * {
@@ -24,6 +27,10 @@ body {
     -ms-overflow-style: none; /* for Internet Explorer, Edge */
     scrollbar-width: none; /* for Firefox */
     overflow: scroll; 
+    /* Set margin and padding to scale with window sizing */ 
+    /*goal is 8px margins, 50px padding on all sides for 1536px x 753.6px (100% zoom) webpage*/
+    margin: 1.061575vh 0.520833vw;
+    padding: 6.63481953vh 3.25520833vw;
   }
   
   body::-webkit-scrollbar {
@@ -54,6 +61,12 @@ width: 9.3163vw;
 
 details,summary {
   font-size: 2.229vh;
+}
+
+header {
+  position: fixed;
+  float: left;
+  padding: 0px;
 }
 
 /*https://mrmarchant.com/editing-jekyll-theme-css-for-github-pages/ */
