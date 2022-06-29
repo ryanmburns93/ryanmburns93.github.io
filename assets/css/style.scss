@@ -81,4 +81,10 @@ details > p {
   margin: 0;
 }
 
+@media only screen and (max-width: 600px) {
+  div.copyright {
+    display: none;
+  }
+}
+
 /*https://mrmarchant.com/editing-jekyll-theme-css-for-github-pages/ */
