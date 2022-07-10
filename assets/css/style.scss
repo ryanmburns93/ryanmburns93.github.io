@@ -5,3 +5,28 @@
 * {
     box-sizing: border-box;
 }
+
+section {
+    padding-bottom: 3.98089172vh;
+    padding-top: 0px;
+    margin: 0px;
+    border-width: 0px;
+}
+
+footer {
+    bottom: 2.36241vh;
+    position: absolute;
+    font-size: 1.91vh;
+}
+
+p, ul, ol, table, pre, dl, hr {
+    margin: 0 0 2.65392781vh;
+}
+  
+h1, h2, h3, h4, h5, h6 {
+    margin: 0 0 2.65392781vh;
+}
+  
+details > p {
+    margin: 0;
+}
