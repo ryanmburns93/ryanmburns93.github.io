@@ -6,6 +6,20 @@
     box-sizing: border-box;
 }
 
+.wrapper {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+
+header {
+    margin-right: auto
+}
+
+.sections-container {
+    margin-left: auto
+}
+
 section {
     padding-bottom: 3.98089172vh;
     padding-top: 0px;

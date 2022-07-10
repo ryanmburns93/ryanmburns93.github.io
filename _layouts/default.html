@@ -48,12 +48,14 @@
         </ul>
         {% endif %}
       </header>
-      <section>
-        {% include nav.html %}
-      </section>
-      <section>
-        {{ content }}
-      </section>
+      <div class="sections-container">
+        <section>
+          {% include nav.html %}
+        </section>
+        <section>
+          {{ content }}
+        </section>
+      </div>
 
       <footer class='site-footer'>
         &copy; Ryan Burns 2022
