@@ -1,5 +1,8 @@
-
-## Project Portfolio
+---
+title: Project Portfolio
+scroll_style: "overflow: hidden;"
+section_style: "overflow: auto; height: calc(100vh * 0.7); width: auto;"
+---
 
 <details><summary style="font-size: 120%;"><b>CoStar Property Data Scraping</b></summary>
 <p>
@@ -34,6 +37,18 @@ This project is a case study on developing NLP applications in a low-resource co
 <br>
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ryanmburns93/NLP_Case_Study)
 <a href="https://www.codefactor.io/repository/github/ryanmburns93/nlp_case_study"><img src="https://www.codefactor.io/repository/github/ryanmburns93/nlp_case_study/badge" alt="CodeFactor Repo Grade" /></a>
+
+---
+
+<details><summary style="font-size: 120%;"><b>AutoML Demo with DataRobot</b></summary>
+<p>
+<br>
+I created a tutorial and video demonstration of the automatic machine learning (AutoML) tool DataRobot. The tutorial provides a simple demonstration of DataRobot integration into a project applying sentiment analysis to daily chatbot message data to rank order prospect follow-up outreach conducted the following day. The final application can be viewed in the separate <a href="https://github.com/ryanmburns93/Prospect_Ranked_Followup_App">Prospect Ranked Follow-up Application</a> repository.
+</p>
+</details>
+<br>
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ryanmburns93/DataRobot_Demo)
+<a href="https://www.codefactor.io/repository/github/ryanmburns93/datarobot_demo"><img src="https://www.codefactor.io/repository/github/ryanmburns93/datarobot_demo/badge" alt="CodeFactor Repo Grade" class="CF-Badge"/></a>
 
 ---
 

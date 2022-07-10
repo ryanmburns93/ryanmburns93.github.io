@@ -1,5 +1,9 @@
+---
+title: Resume
+scroll_style:
+section_style: "width: auto"
+---
 
-## Resume
 Last updated June 17th, 2022.
 
 <img src="https://ryanmburns93.github.io/images/Ryan_Burns_Resume_2022.jpg?raw=true" alt="Resume"/>
