@@ -12,11 +12,15 @@
         flex-direction: row;
         flex-wrap: nowrap;
         width: 80%;
+        max-height: calc(100vh - 50px);
     }
 
     header {
         margin-right: auto;
         width: 15%;
+        max-height: calc(100vh - 50px);
+        overflow-y: auto;
+        padding-right: 1vw;
     }
 
     .sections-container {
@@ -72,6 +76,7 @@ details > p {
     header {
         padding: 0;
     }
+    
 }
 
 @media print, screen and (max-width: 960px) {
