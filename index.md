@@ -1,7 +1,5 @@
 ---
 title: Project Portfolio
-scroll_style: "overflow: hidden;"
-section_style: "overflow: auto; height: calc(100vh * 0.7); width: auto;"
 ---
 
 <details><summary style="font-size: 120%;"><b>CoStar Property Data Scraping</b></summary>
