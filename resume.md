@@ -1,7 +1,5 @@
 ---
 title: Resume
-scroll_style:
-section_style: "width: auto"
 ---
 
 Last updated June 17th, 2022.
