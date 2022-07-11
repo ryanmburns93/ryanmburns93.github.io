@@ -4,30 +4,6 @@ scroll_style: "overflow: hidden;"
 section_style: "overflow: auto; height: calc(100vh * 0.7); width: auto;"
 ---
 
-<details><summary style="font-size: 120%;"><b>CoStar Property Data Scraping</b></summary>
-<p>
-<br>
-This project sought to collect over forty attributes for more than 850 competitor multi-family apartment home properties from the <a href="https://www.costar.com/">CoStar property research platform</a>. The program achieved data collection, cleansing, and injection into storage in less than eight minutes start to finish. CoStar recently updated the service's <a href="https://www.costar.com/about/terms-conditions">Terms of Use</a> to explicitly prohibit the web scraping techniques and reverse-engineering of the CoStar product utilized in this program. I ultimately led the project in an alternate direction to acquire similar data while keeping the business in compliance with CoStar's Terms of Use, and have shared the original program as proof of work.
-</p>
-</details>
-<br>
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ryanmburns93/CoStar_Property_Data_Scraping)
-<a href="https://www.codefactor.io/repository/github/ryanmburns93/CoStar_Property_Data_Scraping"><img src="https://www.codefactor.io/repository/github/ryanmburns93/CoStar_Property_Data_Scraping/badge" alt="CodeFactor Repo Grade" /></a>
-
----
-
-<details><summary style="font-size: 120%;"><b>Recording and Transcription Web Scraping Toolkit</b></summary>
-<p>
-<br>
-I developed this toolkit to automate the collection of video recordings, recording metadata, and transcripts from a variety of different video conference, video hosting, and transcription service platforms. I personally utilized the tools during my four years working in client relationship management remotely supporting a territory containing hundreds of clients.
-</p>
-</details>
-<br>
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ryanmburns93/web_scraping_tools)
-<a href="https://www.codefactor.io/repository/github/ryanmburns93/web_scraping_tools"><img src="https://www.codefactor.io/repository/github/ryanmburns93/web_scraping_tools/badge" alt="CodeFactor Repo Grade" /></a>
-
----
-
 <details><summary style="font-size: 120%;"><b>NLP Miniature BERT Model Case Study</b></summary>
 <p>
 <br>
@@ -52,10 +28,34 @@ I created a tutorial and video demonstration of the automatic machine learning (
 
 ---
 
-<details><summary style="font-size: 120%;"><b>Biweekly Sales Reporting Automations</b></summary>
+<details><summary style="font-size: 120%;"><b>CoStar Property Data Scraping</b></summary>
 <p>
 <br>
-I am the lucky fiancé to the owner of <a href="https://www.thebeverlycollective.co/">The Beverly Collective</a>, and I built this program to reduce the manual workload of sending out biweekly sales reports emails to the 20+ artists and makers vending through the collective. I completed coding this program in less than 5 hours and reduced the hourly workload from 10 hours per month to only 2 hours focused on email validation, payment processing, and vendor support each month. I successfully leveraged the Gmail API to gather user permissions and create email drafts within the user email and consumed Excel files into the Python-based program using the OpenPyxl library.
+This project sought to collect over forty attributes for more than 850 competitor multi-family apartment home properties from the <a href="https://www.costar.com/">CoStar property research platform</a>. The program achieved data collection, cleansing, and injection into storage in less than eight minutes start to finish. CoStar recently updated the service's <a href="https://www.costar.com/about/terms-conditions">Terms of Use</a> to explicitly prohibit the web scraping techniques and reverse-engineering of the CoStar product utilized in this program. I ultimately led the project in an alternate direction to acquire similar data while keeping the business in compliance with CoStar's Terms of Use, and have shared the original program as proof of work.
+</p>
+</details>
+<br>
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ryanmburns93/CoStar_Property_Data_Scraping)
+<a href="https://www.codefactor.io/repository/github/ryanmburns93/CoStar_Property_Data_Scraping"><img src="https://www.codefactor.io/repository/github/ryanmburns93/CoStar_Property_Data_Scraping/badge" alt="CodeFactor Repo Grade" /></a>
+
+---
+
+<details><summary style="font-size: 120%;"><b>Recording and Transcription Web Scraping Toolkit</b></summary>
+<p>
+<br>
+I developed this toolkit to automate the collection of video recordings, recording metadata, and transcripts from a variety of different video conference, video hosting, and transcription service platforms. I personally utilized the tools during my four years working in client relationship management remotely supporting a territory containing hundreds of clients.
+</p>
+</details>
+<br>
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ryanmburns93/web_scraping_tools)
+<a href="https://www.codefactor.io/repository/github/ryanmburns93/web_scraping_tools"><img src="https://www.codefactor.io/repository/github/ryanmburns93/web_scraping_tools/badge" alt="CodeFactor Repo Grade" /></a>
+
+---
+
+<details><summary style="font-size: 120%;"><b>Biweekly Sales Report Automation</b></summary>
+<p>
+<br>
+I am fortunate to be the husband of the founder and owner of <a href="https://www.thebeverlycollective.co/">The Beverly Collective</a>, a local maker gallery in Broomfield, Colorado. I built this program to reduce the manual workload of sending out biweekly sales reports emails to the 20+ artists and makers vending through the collective. I completed coding this program in less than 5 hours and reduced the hourly workload from 10 hours per month to only 2 hours focused on email validation, payment processing, and vendor support each month. I successfully leveraged the Gmail API to gather user permissions and create email drafts within the user email and consumed Excel files into the Python-based program using the OpenPyxl library.
 </p>
 </details>
 <br>
