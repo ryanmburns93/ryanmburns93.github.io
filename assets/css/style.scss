@@ -34,6 +34,12 @@
     display: block;
 }
 
+@media print, screen, and (max-width: 1300px) {
+    footer {
+        display: none;
+    }
+}
+
 header > p {
     margin: 1.3269639vh 0 2.65392781vh;
 }
