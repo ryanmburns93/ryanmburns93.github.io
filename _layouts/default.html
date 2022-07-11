@@ -31,7 +31,7 @@ title: default
         <h1 style="text-align:center;"><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
         
         {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Headshot" style="margin: auto; display: block; width: 90%"/>
+          <img class="headshot" src="{{site.logo | relative_url}}" alt="Headshot"/>
         {% endif %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
@@ -48,17 +48,18 @@ title: default
         </ul>
         {% endif %}
       </header>
-      <div style="display: flex; flex-direction: column; margin-left: auto; width: 75%">
-        <section style="width: auto;">
+      <div class="sections-container">
+        <section>
           {% include nav.html %}
         </section>
-        <section style="{{ page.section_style }}">
+        <section>
           {{ content }}
         </section>
       </div>
-      <div class=copyright style="bottom: 2.36241vh; position: absolute; font-size: 1.91vh">
+
+      <footer class='site-footer'>
         &copy; Ryan Burns 2022
-      </div>
+      </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
   </body>
