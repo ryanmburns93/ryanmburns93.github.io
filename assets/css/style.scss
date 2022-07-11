@@ -34,7 +34,7 @@
     display: block;
 }
 
-@media print, screen, and (max-width: 1300px) {
+@media print, screen and (max-width: 1300px) {
     footer {
         display: none;
     }
