@@ -1,10 +1,8 @@
 ---
 title: Project Portfolio
-scroll_style: "overflow: hidden;"
-section_style: "overflow: auto; height: calc(100vh * 0.7); width: auto;"
 ---
 
-<details><summary style="font-size: 120%;"><b>NLP Miniature BERT Model Case Study</b></summary>
+<details><summary><b>NLP Miniature BERT Model Case Study</b></summary>
 <p>
 <br>
 This project is a case study on developing NLP applications in a low-resource corporate environment operating a client-centric, service-based business model. I pretrained miniature BERT masked language models on domain-adapted vocabulary sourced from client-facing research documents. I demonstrated light improvements in model performance over baseline when finetuned to categorize client consultation requests by topic.
@@ -16,7 +14,7 @@ This project is a case study on developing NLP applications in a low-resource co
 
 ---
 
-<details><summary style="font-size: 120%;"><b>AutoML Demo with DataRobot</b></summary>
+<details><summary><b>AutoML Demo with DataRobot</b></summary>
 <p>
 <br>
 I created a tutorial and video demonstration of the automatic machine learning (AutoML) tool DataRobot. The tutorial provides a simple demonstration of DataRobot integration into a project applying sentiment analysis to daily chatbot message data to rank order prospect follow-up outreach conducted the following day. The final application can be viewed in the separate <a href="https://github.com/ryanmburns93/Prospect_Ranked_Followup_App">Prospect Ranked Follow-up Application</a> repository.
@@ -28,7 +26,7 @@ I created a tutorial and video demonstration of the automatic machine learning (
 
 ---
 
-<details><summary style="font-size: 120%;"><b>CoStar Property Data Scraping</b></summary>
+<details><summary><b>CoStar Property Data Scraping</b></summary>
 <p>
 <br>
 This project sought to collect over forty attributes for more than 850 competitor multi-family apartment home properties from the <a href="https://www.costar.com/">CoStar property research platform</a>. The program achieved data collection, cleansing, and injection into storage in less than eight minutes start to finish. CoStar recently updated the service's <a href="https://www.costar.com/about/terms-conditions">Terms of Use</a> to explicitly prohibit the web scraping techniques and reverse-engineering of the CoStar product utilized in this program. I ultimately led the project in an alternate direction to acquire similar data while keeping the business in compliance with CoStar's Terms of Use, and have shared the original program as proof of work.
@@ -40,7 +38,7 @@ This project sought to collect over forty attributes for more than 850 competito
 
 <hr>
 
-<details><summary style="font-size: 120%;"><b>Recording and Transcription Web Scraping Toolkit</b></summary>
+<details><summary><b>Recording and Transcription Web Scraping Toolkit</b></summary>
 <p>
 <br>
 I developed this toolkit to automate the collection of video recordings, recording metadata, and transcripts from a variety of different video conference, video hosting, and transcription service platforms. I personally utilized the tools during my four years working in client relationship management remotely supporting a territory containing hundreds of clients.
@@ -52,7 +50,7 @@ I developed this toolkit to automate the collection of video recordings, recordi
 
 ---
 
-<details><summary style="font-size: 120%;"><b>Biweekly Sales Report Automation</b></summary>
+<details><summary><b>Biweekly Sales Report Automation</b></summary>
 <p>
 <br>
 I am fortunate to be the husband of the founder and owner of <a href="https://www.thebeverlycollective.co/">The Beverly Collective</a>, a local maker gallery in Broomfield, Colorado. I built this program to reduce the manual workload of sending out biweekly sales reports emails to the 20+ artists and makers vending through the collective. I completed coding this program in less than 5 hours and reduced the hourly workload from 10 hours per month to only 2 hours focused on email validation, payment processing, and vendor support each month. I successfully leveraged the Gmail API to gather user permissions and create email drafts within the user email and consumed Excel files into the Python-based program using the OpenPyxl library.
