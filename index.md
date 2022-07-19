@@ -50,10 +50,10 @@ I created a tutorial and video demonstration of the automatic machine learning (
 
 ---
 
-<details><summary style="font-size: 120%;"><b>Biweekly Sales Reporting Automations</b></summary>
+<details><summary style="font-size: 120%;"><b>Biweekly Sales Reports Automation</b></summary>
 <p>
 <br>
-I am the lucky fiancé to the owner of <a href="https://www.thebeverlycollective.co/">The Beverly Collective</a>, and I built this program to reduce the manual workload of sending out biweekly sales reports emails to the 20+ artists and makers vending through the collective. I completed coding this program in less than 5 hours and reduced the hourly workload from 10 hours per month to only 2 hours focused on email validation, payment processing, and vendor support each month. I successfully leveraged the Gmail API to gather user permissions and create email drafts within the user email and consumed Excel files into the Python-based program using the OpenPyxl library.
+As the lucky husband to the founder of <a href="https://www.thebeverlycollective.co/">The Beverly Collective</a>, a Colorado-based art collective, I built this program to reduce the manual workload of sending out biweekly sales reports emails to the 30+ artists and makers vending through the collective. I completed coding for this program in less than 5 hours and reduced the hourly workload from 10 hours per month to only 2 hours focused on email validation, payment processing, and vendor support each month. I successfully leveraged the Gmail API to gather user permissions and create email drafts within the user email and consumed Excel files into the Python-based program using the OpenPyxl library.
 </p>
 </details>
 <br>
