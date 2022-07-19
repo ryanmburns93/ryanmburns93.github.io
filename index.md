@@ -2,6 +2,18 @@
 title: Project Portfolio
 ---
 
+<details><summary style="font-size: 120%;"><b>NLP Miniature BERT Model Case Study</b></summary>
+<p>
+<br>
+This project is a case study on developing NLP applications in a low-resource corporate environment operating a client-centric, service-based business model. I pretrained miniature BERT masked language models on domain-adapted vocabulary sourced from client-facing research documents. I demonstrated light improvements in model performance over baseline when finetuned to categorize client consultation requests by topic.
+</p>
+</details>
+<br>
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ryanmburns93/NLP_Case_Study)
+<a href="https://www.codefactor.io/repository/github/ryanmburns93/nlp_case_study"><img src="https://www.codefactor.io/repository/github/ryanmburns93/nlp_case_study/badge" alt="CodeFactor Repo Grade" /></a>
+
+---
+
 <details><summary style="font-size: 120%;"><b>CoStar Property Data Scraping</b></summary>
 <p>
 <br>
@@ -23,18 +35,6 @@ I developed this toolkit to automate the collection of video recordings, recordi
 <br>
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ryanmburns93/web_scraping_tools)
 <a href="https://www.codefactor.io/repository/github/ryanmburns93/web_scraping_tools"><img src="https://www.codefactor.io/repository/github/ryanmburns93/web_scraping_tools/badge" alt="CodeFactor Repo Grade" /></a>
-
----
-
-<details><summary style="font-size: 120%;"><b>NLP Miniature BERT Model Case Study</b></summary>
-<p>
-<br>
-This project is a case study on developing NLP applications in a low-resource corporate environment operating a client-centric, service-based business model. I pretrained miniature BERT masked language models on domain-adapted vocabulary sourced from client-facing research documents. I demonstrated light improvements in model performance over baseline when finetuned to categorize client consultation requests by topic.
-</p>
-</details>
-<br>
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ryanmburns93/NLP_Case_Study)
-<a href="https://www.codefactor.io/repository/github/ryanmburns93/nlp_case_study"><img src="https://www.codefactor.io/repository/github/ryanmburns93/nlp_case_study/badge" alt="CodeFactor Repo Grade" /></a>
 
 ---
 
