@@ -2,6 +2,23 @@
 title: Project Portfolio
 ---
 
+<details><summary style="font-size: 120%;"><b>Continuous Glucose Monitor Modeling</b></summary>
+<p>
+<br>
+This project is designed to extend personal diabetes data and insights into the realm of real-time streaming, IoT integrations, and data science predictive modeling techniques. The project is launched from a foundation of diabetes data democratization facilitated by <a href="https://nightscout.github.io/">Nightscout</a>, an open-source cloud application used by people with diabetes, providers, and caretakers to visualize, store and share the data from their Continuous Glucose Monitoring sensors in real-time.
+
+Having recently established sensor data accessibility via a web-hosted MongoDB database, I am actively pursuing two aims with this project:
+
+1. Extend the data availability onto IoT technologies visualizing current blood glucose levels and directional trends.
+2. Apply cutting edge ML/AI modeling techniques to train novel predictive algorithms and compare performance to current industry standards.
+</p>
+</details>
+<br>
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ryanmburns93/cgm-glucose-modeling)
+<a href="https://www.codefactor.io/repository/github/ryanmburns93/cgm-glucose-modeling"><img src="https://www.codefactor.io/repository/github/ryanmburns93/cgm-glucose-modeling/badge" alt="CodeFactor Repo Grade" /></a>
+
+---
+
 <details><summary style="font-size: 120%;"><b>NLP Miniature BERT Model Case Study</b></summary>
 <p>
 <br>
