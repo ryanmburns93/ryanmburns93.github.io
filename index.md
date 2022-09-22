@@ -6,11 +6,13 @@ title: Project Portfolio
 <p>
 <br>
 This project is designed to extend personal diabetes data and insights into the realm of real-time streaming, IoT integrations, and data science predictive modeling techniques. The project is launched from a foundation of diabetes data democratization facilitated by <a href="https://nightscout.github.io/">Nightscout</a>, an open-source cloud application used by people with diabetes, providers, and caretakers to visualize, store and share the data from their Continuous Glucose Monitoring sensors in real-time.
-
+<br>
 Having recently established sensor data accessibility via a web-hosted MongoDB database, I am actively pursuing two aims with this project:
-
-1. Extend the data availability onto IoT technologies visualizing current blood glucose levels and directional trends.
-2. Apply cutting edge ML/AI modeling techniques to train novel predictive algorithms and compare performance to current industry standards.
+<br>
+<ol>
+    <li>Extend the data availability onto IoT technologies visualizing current blood glucose levels and directional trends.</li>
+    <li>Apply cutting edge ML/AI modeling techniques to train novel predictive algorithms and compare performance to current industry standards.</li>
+</ol>
 </p>
 </details>
 <br>
