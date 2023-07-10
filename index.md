@@ -156,5 +156,5 @@ The blog posts are available on the <a href="https://discgolf.ultiworld.com/auth
 
 <a href="https://www.codefactor.io/repository/github/ryanmburns93/pdga_predictions_ml_scraping"><img src="https://www.codefactor.io/repository/github/ryanmburns93/pdga_predictions_ml_scraping/badge" alt="CodeFactor Repo Grade" /></a>
 </details>
-
+<br>
 </details>
