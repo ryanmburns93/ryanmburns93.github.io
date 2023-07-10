@@ -76,6 +76,10 @@ hr {
     margin-top: 2.65392781vh;
 }
 
+details > details {
+    margin-left: 10px;
+}
+
 @media print, screen and (max-width: 720px) {
     header {
         padding: 0;
