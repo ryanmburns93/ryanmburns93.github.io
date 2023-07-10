@@ -1,6 +1,6 @@
-<hr>
+---
 title: Project Portfolio
-<hr>
+---
 
 <details><summary style="font-size: 120%;"><b>Certilytics Projects</b></summary>
 <br>
@@ -19,7 +19,7 @@ The final embedding sits centrally in most model pipelines within Certilytics mo
 </details>
 <br>
 </details>
-
+<br>
 <hr>
 
 <details><summary style="font-size: 120%;"><b>AIR Communities Projects</b></summary>
@@ -42,7 +42,7 @@ This project proved to be a disruptive innovation to the forecasting process at 
 
 <a href="https://www.codefactor.io/repository/github/ryanmburns93/cgm-glucose-modeling"><img src="https://www.codefactor.io/repository/github/ryanmburns93/cgm-glucose-modeling/badge" alt="CodeFactor Repo Grade" /></a>
 </details>
-
+<br>
 <hr>
 
 <details><summary style="font-size: 100%;"><b>CoStar Property Data Scraping</b></summary>
@@ -56,7 +56,7 @@ This project sought to collect over forty attributes for more than 850 competito
 
 <a href="https://www.codefactor.io/repository/github/ryanmburns93/CoStar_Property_Data_Scraping"><img src="https://www.codefactor.io/repository/github/ryanmburns93/CoStar_Property_Data_Scraping/badge" alt="CodeFactor Repo Grade" /></a>
 </details>
-
+<br>
 <hr>
 
 <details><summary style="font-size: 100%;"><b>AutoML Demo with DataRobot</b></summary>
@@ -72,7 +72,7 @@ I created a tutorial and video demonstration of the automatic machine learning (
 </details>
 <br>
 </details>
-
+<br>
 <hr>
 
 <details><summary style="font-size: 120%;"><b>Personal Projects</b></summary>
@@ -88,7 +88,7 @@ This project is a case study on developing NLP applications in a low-resource co
 
 <a href="https://www.codefactor.io/repository/github/ryanmburns93/nlp_case_study"><img src="https://www.codefactor.io/repository/github/ryanmburns93/nlp_case_study/badge" alt="CodeFactor Repo Grade" /></a>
 </details>
-
+<br>
 <hr>
 
 <details><summary style="font-size: 100%;"><b>Recording and Transcription Web Scraping Toolkit</b></summary>
@@ -102,7 +102,7 @@ I developed this toolkit to automate the collection of video recordings, recordi
 
 <a href="https://www.codefactor.io/repository/github/ryanmburns93/web_scraping_tools"><img src="https://www.codefactor.io/repository/github/ryanmburns93/web_scraping_tools/badge" alt="CodeFactor Repo Grade" /></a>
 </details>
-
+<br>
 <hr>
 
 <details><summary style="font-size: 100%;"><b>Biweekly Sales Reports Automation</b></summary>
@@ -116,7 +116,7 @@ As the lucky husband to the founder of <a href="https://www.thebeverlycollective
 
 <a href="https://www.codefactor.io/repository/github/ryanmburns93/sales_reporting_automation"><img src="https://www.codefactor.io/repository/github/ryanmburns93/sales_reporting_automation/badge" alt="CodeFactor Repo Grade" /></a>
 </details>
-
+<br>
 <hr>
 
 <details><summary style="font-size: 100%;"><b>Continuous Glucose Monitor Modeling</b></summary>
@@ -139,7 +139,7 @@ Having recently established sensor data accessibility via a web-hosted MongoDB d
 
 <a href="https://www.codefactor.io/repository/github/ryanmburns93/cgm-glucose-modeling"><img src="https://www.codefactor.io/repository/github/ryanmburns93/cgm-glucose-modeling/badge" alt="CodeFactor Repo Grade" /></a>
 </details>
-
+<br>
 <hr>
 
 <details><summary style="font-size: 100%;"><b>PDGA Prediction Modeling Utility Scripts</b></summary>
