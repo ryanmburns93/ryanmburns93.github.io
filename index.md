@@ -3,7 +3,7 @@ title: Project Portfolio
 ---
 
 <details><summary style="font-size: 120%;"><b>Certilytics Projects</b></summary>
-<br>
+<hr>
 <details><summary style="font-size: 100%;"><b>Word Embedding Hyperparameter Tuning</b></summary>
 <p>
 <br>
@@ -17,13 +17,12 @@ The final embedding sits centrally in most model pipelines within Certilytics mo
 <br>
 </p>
 </details>
-<br>
 </details>
 
 <hr>
 
 <details><summary style="font-size: 120%;"><b>AIR Communities Projects</b></summary>
-<br>
+<hr>
 <details><summary style="font-size: 100%;"><b>Future Lease Projection Application</b></summary>
 <p>
 <br>
@@ -68,13 +67,12 @@ I created a tutorial and video demonstration of the automatic machine learning (
 
 <a href="https://www.codefactor.io/repository/github/ryanmburns93/datarobot_demo"><img src="https://www.codefactor.io/repository/github/ryanmburns93/datarobot_demo/badge" alt="CodeFactor Repo Grade" class="CF-Badge"/></a>
 </details>
-<br>
 </details>
 
 <hr>
 
 <details><summary style="font-size: 120%;"><b>Personal Projects</b></summary>
-<br>
+<hr>
 <details><summary style="font-size: 100%;"><b>NLP Miniature BERT Model Case Study</b></summary>
 <p>
 <br>
