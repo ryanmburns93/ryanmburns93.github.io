@@ -10,7 +10,23 @@ title: Project Portfolio
 This project focused on leveraging advanced generative AI to model complex treatment pathways and provide actionable insights for improving patient outcomes and provider performance while reducing costs. Utilizing a GPT-2 language model, I engineered a novel approach to learn underlying disease pathways from extensive claims data. 
 <br>
 <br>
-A key innovation involved developing a custom tokenizer with a specialized vocabulary derived directly from healthcare claims elements, ensuring precise representation of medical events. Furthermore, I proactively integrated a Rotary Position Embedding (RoPE) mechanism into the GPT-2 architecture, based on recent research and implemented prior to its mainstream availability, which significantly enhanced model performance by nearly 2x. This robust generative model was then applied to critical healthcare tasks, including high-cost claimant classification, enabling early identification of at-risk individuals; provider rank ordering for optimized resource utilization; and in-depth at-risk population analysis to inform targeted interventions.
+A key innovation involved developing a custom tokenizer with a specialized vocabulary derived directly from healthcare claims elements, ensuring precise representation of medical events. Furthermore, I proactively implemented a Rotary Position Embedding (RoPE) mechanism into the GPT-2 architecture prior to its mainstream availability, which significantly enhanced model performance by nearly 2x. This robust generative model was then applied to critical healthcare tasks, including high-cost claimant classification, enabling early identification of at-risk individuals; provider rank ordering for optimized resource utilization; and in-depth at-risk population analysis to inform targeted interventions.
+<br>
+</p>
+<br>
+</details>
+
+<hr>
+<details><summary style="font-size: 100%;">Health Insurance Claims Denial Neural Network</summary>
+<p>
+<br>
+This project addressed a critical challenge in healthcare operations: the efficient and accurate prediction of health insurance claim denials and their underlying reasons. 
+<br>
+<br>
+I designed and developed custom transformer-based neural network architectures specifically tailored for this task, moving beyond off-the-shelf solutions to capture the complex relationships within claims data. These models achieved high performance metrics on both binary classification (denial vs. approval) and multi-class prediction (specific denial reason codes), demonstrating their robust predictive power. 
+<br>
+<br>
+I moved both models into production for daily batch inference on incoming client claims, leveraging MLFlow for comprehensive model lifecycle management (experiment tracking, versioning, and deployment) and AWS for scalable and reliable cloud infrastructure. This solution empowers healthcare organizations to proactively address potential denials, streamline claims processing, and ultimately improve financial efficiency and patient experience.
 <br>
 </p>
 <br>
