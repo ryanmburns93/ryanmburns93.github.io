@@ -4,6 +4,16 @@ title: Project Portfolio
 
 <details><summary style="font-size: 120%;"><b>Certilytics Projects</b></summary>
 <hr>
+<details><summary style="font-size: 100%;">GenAI Patient Healthcare Pathway Modeling</summary>
+<p>
+<br>
+This project focused on leveraging advanced generative AI to model complex disease progression within healthcare, addressing the critical need for proactive patient management and resource allocation. Utilizing a GPT-2 language model, I engineered a novel approach to learn underlying disease pathways from extensive claims data. A key innovation involved developing a custom tokenizer with a specialized vocabulary derived directly from healthcare claims elements, ensuring precise representation of medical events. Furthermore, I proactively integrated a Rotary Position Embedding (RoPE) mechanism into the GPT-2 architecture, based on recent research and implemented prior to its mainstream availability, which significantly enhanced model performance by nearly 2x. This robust generative model was then applied to critical healthcare tasks, including high-cost claimant classification, enabling early identification of at-risk individuals; provider rank ordering for optimized resource utilization; and in-depth at-risk population analysis to inform targeted interventions. My work demonstrated the potential of cutting-edge AI to transform healthcare analytics, providing actionable insights for optimizing care pathways, leading to better health outcomes and reduced costs, and facilitating data-driven decision-making.
+<br>
+</p>
+<br>
+</details>
+
+<hr>
 <details><summary style="font-size: 100%;">Word Embedding Hyperparameter Tuning</summary>
 <p>
 <br>
