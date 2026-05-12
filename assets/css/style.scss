@@ -109,3 +109,31 @@ summary {
       color: #0066cc !important;
     }
   }
+
+  // --- Sidebar / Profile Section Scaling ---
+
+// 1. Target your Name (The main title)
+.page-header h1.project-name {
+    color: #111111 !important;
+    font-weight: bold !important;
+    text-shadow: none; // Removes theme defaults that might make it look "soft"
+  }
+  
+  // 2. Target your Title and Education (The description)
+  .page-header h2.project-tagline {
+    color: #222222 !important; // Slightly lighter than the name but still high contrast
+    font-weight: 500 !important;
+    opacity: 1 !important; // Ensures it isn't "faded" by theme defaults
+  }
+  
+  // 3. Target the LinkedIn/GitHub Links
+  .page-header .btn {
+    color: #111111 !important;
+    border-color: #111111 !important;
+    font-weight: bold !important;
+    
+    &:hover {
+      color: #ffffff !important;
+      background-color: #111111 !important;
+    }
+  }
