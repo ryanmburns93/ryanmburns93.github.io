@@ -2,16 +2,21 @@
 title: Project Portfolio
 ---
 
-<details><summary style="font-size: 120%;"><b>Certilytics Projects</b></summary>
+<details open><summary style="font-size: 120%;"><b>Certilytics Projects</b></summary>
 <hr>
-<details><summary style="font-size: 100%;">GenAI Patient Healthcare Pathway Modeling</summary>
+<details open><summary style="font-size: 100%;">GenAI Patient Healthcare Pathway Modeling</summary>
 <p>
 <br>
-This project focused on leveraging advanced generative AI to model complex treatment pathways and provide actionable insights for improving patient outcomes and provider performance while reducing costs. Utilizing a GPT-2 language model, I engineered a novel approach to learn underlying disease pathways from extensive claims data. 
-<br>
-<br>
-A key innovation involved developing a custom tokenizer with a specialized vocabulary derived directly from healthcare claims elements, ensuring precise representation of medical events. Furthermore, I proactively implemented a Rotary Position Embedding (RoPE) mechanism into the GPT-2 architecture prior to its mainstream availability, which significantly enhanced model performance by nearly 2x. This robust generative model was then applied to critical healthcare tasks, including high-cost claimant classification, enabling early identification of at-risk individuals; provider rank ordering for optimized resource utilization; and in-depth at-risk population analysis to inform targeted interventions.
-<br>
+    <strong>Impact:</strong> Developed and productionalized custom transformer architectures that achieved high-precision denial predictions, streamlining claims processing and improving financial efficiency.
+    <br><br>
+    To address the operational challenge of health insurance claim denials, I designed <strong>custom transformer-based neural network architectures</strong>. Unlike off-the-shelf solutions, these models were specifically tailored to capture the intricate relationships within complex claims data, resulting in high-performance metrics for both binary (denial vs. approval) and multi-class (denial reason) predictions.
+    <br><br>
+    I led the end-to-end deployment of these models into production for daily batch inference. The implementation utilized:
+    <ul>
+      <li><strong>MLFlow:</strong> For comprehensive model lifecycle management, including experiment tracking and versioning.</li>
+      <li><strong>AWS:</strong> For building a scalable and reliable cloud infrastructure.</li>
+      <li><strong>Operational Excellence:</strong> Empowering organizations to proactively address denials and optimize patient experiences through automated insights.</li>
+    </ul>
 </p>
 <br>
 </details>
