@@ -134,9 +134,23 @@ header {
     }
 
     p.view {
-      margin-top: 0 !important;    // Removes the gap above the paragraph
-      margin-bottom: 2px !important; // Sets a tiny gap below the paragraph
-      line-height: 1.2 !important; // Tightens the vertical height of the text box
+        margin: 0 !important;       // Kills the theme's default 2.6vh margin
+        padding: 0 !important;      // Ensures no internal padding
+        line-height: 1.1 !important; // Shrinks the text's vertical "box"
+        
+        a {
+          color: #2596be !important; 
+          font-weight: bold !important;
+          text-decoration: none !important;
+          display: inline-block;    // Changed from 'block' to prevent extra padding
+          margin: 0 !important;     // Kills any margin on the link itself
+          padding-top: 2px;         // Tiny gap for readability
+          
+          &:hover {
+            color: #1a6d8a !important; 
+            text-decoration: underline; 
+          }
+        }
     }
   
     // 3. Reverting links to the original blue
