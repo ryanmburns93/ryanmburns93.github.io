@@ -123,9 +123,9 @@ title: Project Portfolio
       <li><strong>End-to-End Visibility:</strong> Produced a comprehensive video demonstration and technical guide to show how AutoML can be integrated into existing sales stacks to drive measurable outreach efficiency.</li>
     </ul>
     <br>
-  <a href="https://github.com/ryanmburns93/AutoML_DataRobot_Demo"><img src="https://img.shields.io/badge/GitHub-View%20on%20GitHub-blue?logo=github" alt="View on GitHub"></a>
+  <a href="https://github.com/ryanmburns93/DataRobot_Demo"><img src="https://img.shields.io/badge/GitHub-View%20on%20GitHub-blue?logo=github" alt="View on GitHub"></a>
 
-  <a href="https://www.codefactor.io/repository/github/ryanmburns93/automl_datarobot_demo"><img src="https://www.codefactor.io/repository/github/ryanmburns93/automl_datarobot_demo/badge" alt="CodeFactor Repo Grade" /></a>
+  <a href="https://www.codefactor.io/repository/github/ryanmburns93/datarobot_demo"><img src="https://www.codefactor.io/repository/github/ryanmburns93/datarobot_demo/badge" alt="CodeFactor Repo Grade" /></a>
   </p>
 </details>
 </details>
