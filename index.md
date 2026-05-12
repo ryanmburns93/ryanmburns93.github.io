@@ -66,7 +66,7 @@ title: Project Portfolio
 
 <details open><summary style="font-size: 120%;">AIR Communities Projects</summary>
 <hr>
-<details open>
+<details>
   <summary style="font-size: 100%;">Future Lease Projection Application</summary>
   <p>
     <br>

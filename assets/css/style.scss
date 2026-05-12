@@ -110,40 +110,62 @@ summary {
     }
   }
 
-  // --- Sidebar / Profile Section Scaling ---
+// --- Sidebar / Profile Section (Minimal Theme) ---
 
-  header {
-    // 1. Target your Name (The title in _config.yml)
+header {
     h1 {
-      color: #111111 !important; // Match the dark project titles
+      color: #111111 !important;
       font-weight: bold !important;
-      font-size: 1.8rem; // Adjust size if needed
+      font-size: 1.8rem;
       margin-bottom: 0.5rem;
       
-      // In case your name is a link
       a {
         color: #111111 !important;
         text-decoration: none;
       }
     }
   
-    // 2. Target your Description (The tagline in _config.yml)
     p {
-      color: #222222 !important; // High contrast charcoal
+      color: #222222 !important;
       font-weight: 500 !important;
-      opacity: 1 !important; // Fixes the "faded" look common in this theme
+      opacity: 1 !important;
       line-height: 1.4;
       font-size: 0.95rem;
     }
   
-    // 3. Target your LinkedIn/GitHub Links
+    // 3. Reverting links to the original blue
     a {
-      color: #111111 !important;
-      font-weight: bold !important;
-      text-decoration: underline;
+      color: #2596be !important; // Your requested blue
+      text-decoration: none !important;
+      display: block;
+      margin-bottom: 8px;
       
       &:hover {
-        color: #0066cc !important; // Subtle blue on hover
+        color: #1a6d8a !important; // A slightly darker shade for the hover state
+        font-weight: bold !important;
       }
     }
+  }
+
+  // --- Main Navigation & Title (nav.html) ---
+
+// 1. Target the Projects | Resume links
+.top-nav {
+    a {
+      color: #2596be !important; // Your requested blue
+      font-weight: bold !important;
+      text-decoration: none; // Cleaner look for navigation
+      
+      &:hover {
+        color: #1a6d8a !important; // Darker blue hover
+        text-decoration: underline;
+      }
+    }
+  }
+  
+  // 2. Target the Page Title (h2)
+  h2 {
+    color: #111111 !important; // Match the dark black of project headers
+    font-weight: bold !important;
+    margin-top: 20px;
   }
