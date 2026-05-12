@@ -124,7 +124,7 @@ title: Project Portfolio
     <br>
   <a href="https://github.com/ryanmburns93/AutoML_DataRobot_Demo"><img src="https://img.shields.io/badge/GitHub-View%20on%20GitHub-blue?logo=github" alt="View on GitHub"></a>
 
-  <a href="https://www.codefactor.io/repository/github/ryanmburns93/automl_datarobot_demo"><img src="https://www.codefactor.io/repository/github/ryanmburns93/automl_datarobot_demo/badge" alt="CodeFactor Repo Grade"></a>
+  <a href="https://www.codefactor.io/repository/github/ryanmburns93/automl_datarobot_demo"><img src="https://www.codefactor.io/repository/github/ryanmburns93/automl_datarobot_demo/badge" alt="CodeFactor Repo Grade" /></a>
 
 </details>
 
