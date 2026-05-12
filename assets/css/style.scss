@@ -142,7 +142,7 @@ header {
       
       &:hover {
         color: #1a6d8a !important; // A slightly darker shade for the hover state
-        font-weight: bold !important;
+        font-weight: underline;
       }
     }
   }
@@ -153,12 +153,12 @@ header {
 .top-nav {
     a {
       color: #2596be !important; // Your requested blue
-      font-weight: bold !important;
+      //font-weight: bold !important;
       text-decoration: none; // Cleaner look for navigation
       
       &:hover {
         color: #1a6d8a !important; // Darker blue hover
-        text-decoration: underline;
+        text-decoration: bold !important;
       }
     }
   }
