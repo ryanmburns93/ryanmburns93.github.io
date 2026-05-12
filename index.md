@@ -4,9 +4,10 @@ title: Project Portfolio
 
 <details open><summary style="font-size: 120%;"><b>Certilytics Projects</b></summary>
 <hr>
-<details open><summary style="font-size: 100%;">GenAI Patient Healthcare Pathway Modeling</summary>
-<p>
-<br>
+<details open>
+  <summary style="font-size: 100%;">GenAI Patient Healthcare Pathway Modeling</summary>
+  <p>
+    <br>
     <strong>Impact:</strong> Developed and productionalized custom transformer architectures that achieved high-precision denial predictions, streamlining claims processing and improving financial efficiency.
     <br><br>
     To address the operational challenge of health insurance claim denials, I designed <strong>custom transformer-based neural network architectures</strong>. Unlike off-the-shelf solutions, these models were specifically tailored to capture the intricate relationships within complex claims data, resulting in high-performance metrics for both binary (denial vs. approval) and multi-class (denial reason) predictions.
@@ -17,45 +18,53 @@ title: Project Portfolio
       <li><strong>AWS:</strong> For building a scalable and reliable cloud infrastructure.</li>
       <li><strong>Operational Excellence:</strong> Empowering organizations to proactively address denials and optimize patient experiences through automated insights.</li>
     </ul>
-</p>
-<br>
+  </p>
+  <br>
 </details>
 
 <hr>
-<details><summary style="font-size: 100%;">Health Insurance Claims Denial Neural Network</summary>
-<p>
-<br>
-This project addressed a critical challenge in healthcare operations: the efficient and accurate prediction of health insurance claim denials and their underlying reasons. 
-<br>
-<br>
-I designed and developed custom transformer-based neural network architectures specifically tailored for this task, moving beyond off-the-shelf solutions to capture the complex relationships within claims data. These models achieved high performance metrics on both binary classification (denial vs. approval) and multi-class prediction (specific denial reason codes), demonstrating their robust predictive power. 
-<br>
-<br>
-I moved both models into production for daily batch inference on incoming client claims, leveraging MLFlow for comprehensive model lifecycle management (experiment tracking, versioning, and deployment) and AWS for scalable and reliable cloud infrastructure. This solution empowers healthcare organizations to proactively address potential denials, streamline claims processing, and ultimately improve financial efficiency and patient experience.
-<br>
-</p>
-<br>
+<details open>
+  <summary style="font-size: 100%;">Health Insurance Claims Denial Neural Network</summary>
+  <p>
+    <br>
+    <strong>Impact:</strong> Developed and productionalized custom transformer architectures that achieved high-precision denial predictions, streamlining claims processing and improving financial efficiency.
+    <br><br>
+    To address the operational challenge of health insurance claim denials, I designed <strong>custom transformer-based neural network architectures</strong>. Unlike off-the-shelf solutions, these models were specifically tailored to capture the intricate, non-linear relationships within complex claims data, resulting in high-performance metrics for both binary (denial vs. approval) and multi-class (denial reason) predictions.
+    <br><br>
+    I led the end-to-end deployment of these models into production for daily batch inference. The implementation utilized:
+    <ul>
+      <li><strong>MLFlow:</strong> For comprehensive model lifecycle management, including experiment tracking, versioning, and deployment.</li>
+      <li><strong>AWS:</strong> For building a scalable and reliable cloud infrastructure to handle high-volume data.</li>
+      <li><strong>Business Value:</strong> This solution enables healthcare organizations to proactively address denials, optimizing patient experiences and recapturing revenue through automated insights.</li>
+    </ul>
+  </p>
+  <br>
 </details>
 
 <hr>
-<details><summary style="font-size: 100%;">Word Embedding Hyperparameter Tuning</summary>
-<p>
-<br>
-I retrained a word embedding deep representation model on newly-acquired data containing patient-level medical system utilization sequences and applied hyperparameter tuning testing and analysis. I tested a hyperparameter grid by generating 22 model configurations, and the optimal hyperparameter setting ultimately selected resulted in an average improvement of 5% AUC or R<sup>2</sup> score (depending on whether the application was a classification or regression problem) across the entire model suite.
-<br>
-<br>
-In order to evaluate the performance of each word embedding, I trained four end-to-end models for each embedding contained in the four model pipelines, and I scored these four models to allow me to conduct cross-model extrinsic evaluations. After completing the extrinsic evaluations to select the optimal final configuration, I partnered with Certilytics' internal clinical expert to conduct an intrinsic evaluation of the model using a custom clustering challenge on hand-selected medical codes which would be naturally expected to exhibit clusters or distance between similar and dissimilar codes respectively.
-<br>
-<br>
-The final embedding sits centrally in most model pipelines within Certilytics model suite.
-<br>
-</p>
+<details open>
+  <summary style="font-size: 100%;">Word Embedding Hyperparameter Tuning</summary>
+  <p>
+    <br>
+    <strong>Impact:</strong> Optimized the core medical data representation layer for the entire model suite, driving a <strong>5% average performance lift</strong> across all downstream classification and regression tasks.
+    <br><br>
+    Following the acquisition of new patient-level medical utilization data, I led the retraining and optimization of the foundational word embeddings that power the Certilytics ecosystem. The objective was to identify the optimal hyperparameter configurations to represent complex medical sequences more effectively than baseline models.
+    <br><br>
+    To ensure the new embeddings were both statistically superior and clinically sound, I implemented a rigorous multi-stage validation process:
+    <ul>
+      <li><strong>Systematic Optimization:</strong> Executed a hyperparameter grid search across 22 distinct model configurations to isolate the settings that best captured medical utilization patterns.</li>
+      <li><strong>Extrinsic Evaluation:</strong> Developed a robust testing framework that involved training four end-to-end models for every embedding candidate across four different pipelines, ensuring that improvements in the latent space translated to real-world predictive power.</li>
+      <li><strong>Intrinsic Clinical Validation:</strong> Partnered with internal clinical experts to conduct a custom clustering challenge, verifying that the embeddings accurately reflected medical logic and established relationships between codes.</li>
+      <li><strong>Enterprise Integration:</strong> Successfully deployed the final configuration, which resulted in a 5% improvement in AUC and R² scores and now serves as the central embedding layer for the majority of production pipelines.</li>
+    </ul>
+  </p>
+  <br>
 </details>
 </details>
 
 <hr>
 
-<details><summary style="font-size: 120%;"><b>AIR Communities Projects</b></summary>
+<details><summary style="font-size: 120%;">AIR Communities Projects</summary>
 <hr>
 <details><summary style="font-size: 100%;">Future Lease Projection Application</summary>
 <p>
@@ -105,8 +114,9 @@ I created a tutorial and video demonstration of the automatic machine learning (
 
 <hr>
 
-<details><summary style="font-size: 120%;"><b>Personal Projects</b></summary>
-<hr>
+<details open>
+  <summary style="font-size: 120%;">Personal Projects</summary>
+  <hr>
 <details><summary style="font-size: 100%;">NLP Miniature BERT Model Case Study</summary>
 <p>
 <br>
