@@ -112,59 +112,50 @@ summary {
 
 // --- Sidebar / Profile Section (Minimal Theme) ---
 
-header {
-    h1 {
-      color: #2596be !important;
-      font-weight: bold !important;
-      font-size: 1.8rem;
-      margin-bottom: 0.5rem;
-      
-      a {
-        color: #2596be !important;
-        text-decoration: none;
-      }
-    }
-  
-    p {
-      color: #222222 !important;
-      font-weight: 500 !important;
-      opacity: 1 !important;
-      line-height: 1.4;
-      font-size: 0.95rem;
-    }
+/* --- Sidebar / Profile Section (Minimal Theme) --- */
 
-    p.view {
-        margin: 0 !important;       // Kills the theme's default 2.6vh margin
-        padding: 0 !important;      // Ensures no internal padding
-        line-height: 1.1 !important; // Shrinks the text's vertical "box"
-        
-        a {
-          color: #2596be !important; 
-          font-weight: bold !important;
-          text-decoration: none !important;
-          display: inline-block;    // Changed from 'block' to prevent extra padding
-          margin: 0 !important;     // Kills any margin on the link itself
-          padding-top: 2px;         // Tiny gap for readability
-          
-          &:hover {
-            color: #1a6d8a !important; 
-            text-decoration: underline; 
-          }
-        }
-    }
+/* 1. Name & Title */
+header h1 {
+    color: #2596be !important; 
+    font-weight: bold !important;
+    font-size: 1.8rem;
+    margin-bottom: 0.5rem;
+  }
+  header h1 a {
+    color: #2596be !important;
+    text-decoration: none !important;
+  }
   
-    // 3. Reverting links to the original blue
-    a {
-      color: #2596be !important; // Your requested blue
-      text-decoration: none !important;
-      display: block;
-      margin-bottom: 2px;
-      
-      &:hover {
-        color: #1a6d8a !important; // A slightly darker shade for the hover state
-        font-weight: underline;
-      }
-    }
+  /* 2. Bio/Education Text */
+  header p {
+    color: #222222 !important;
+    font-weight: 500 !important;
+    opacity: 1 !important;
+    line-height: 1.4;
+    font-size: 0.95rem;
+    margin-bottom: 1.2rem !important; 
+  }
+  
+  /* 3. THE FIX: Targeting the link containers directly */
+  header .view {
+    margin: 0 !important;       /* Kills the theme's default large gap */
+    padding: 0 !important;
+    line-height: 1 !important;   /* Collapses the vertical height */
+  }
+  
+  /* 4. The links themselves */
+  header .view a {
+    color: #2596be !important; 
+    font-weight: bold !important;
+    text-decoration: none !important;
+    display: inline-block !important; /* Forces them to stay tight */
+    margin: 0 !important;
+    padding: 1px 0 !important;       /* Tightest possible spacing */
+  }
+  
+  header .view a:hover {
+    color: #1a6d8a !important; 
+    text-decoration: underline !important;
   }
 
   // --- Main Navigation & Title (nav.html) ---
