@@ -27,15 +27,15 @@ title: Project Portfolio
   <summary style="font-size: 100%;">Health Insurance Claims Denial Neural Network</summary>
   <p>
     <br>
-    <strong>Impact:</strong> Developed and productionalized custom transformer architectures that achieved high-precision denial predictions, streamlining claims processing and improving financial efficiency.
+    <strong>Impact:</strong> Productionalized custom transformer architectures that achieved high-precision denial predictions, directly optimizing financial recovery and claims processing efficiency.
     <br><br>
-    To address the operational challenge of health insurance claim denials, I designed <strong>custom transformer-based neural network architectures</strong>. Unlike off-the-shelf solutions, these models were specifically tailored to capture the intricate, non-linear relationships within complex claims data, resulting in high-performance metrics for both binary (denial vs. approval) and multi-class (denial reason) predictions.
+    To tackle the financial strain caused by unpredictable health insurance claim denials, I designed <strong>custom transformer-based neural network architectures</strong> tailored to the non-linear complexities of medical billing data. While standard models often struggle with the multi-dimensional relationships in claims, these specific architectures were engineered to identify potential denials and their underlying reasons before they impacted the bottom line.
     <br><br>
-    I led the end-to-end deployment of these models into production for daily batch inference. The implementation utilized:
+    I led the end-to-end deployment of these models for daily batch inference, ensuring a scalable and reliable production environment. The implementation featured:
     <ul>
-      <li><strong>MLFlow:</strong> For comprehensive model lifecycle management, including experiment tracking, versioning, and deployment.</li>
-      <li><strong>AWS:</strong> For building a scalable and reliable cloud infrastructure to handle high-volume data.</li>
-      <li><strong>Business Value:</strong> This solution enables healthcare organizations to proactively address denials, optimizing patient experiences and recapturing revenue through automated insights.</li>
+      <li><strong>Advanced Architecture:</strong> Developed specialized transformers to capture intricate data relationships that off-the-shelf solutions missed.</li>
+      <li><strong>MLOps Excellence:</strong> Utilized <strong>MLFlow</strong> for comprehensive model lifecycle management—including experiment tracking and versioning—and <strong>AWS</strong> for cloud-scale infrastructure.</li>
+      <li><strong>Operational Value:</strong> By automating the identification of both binary and multi-class denial outcomes, the system enables proactive intervention and significantly reduces manual review time.</li>
     </ul>
   </p>
   <br>
@@ -64,20 +64,29 @@ title: Project Portfolio
 
 <hr>
 
-<details><summary style="font-size: 120%;">AIR Communities Projects</summary>
+<details open><summary style="font-size: 120%;">AIR Communities Projects</summary>
 <hr>
-<details><summary style="font-size: 100%;">Future Lease Projection Application</summary>
-<p>
-<br>
-I was tasked with building a program to create projection scenarios for future leases across AIR Communities' apartment property portfolio. The projections informed the budget and forecasting process for the organization, and I was initially approached to own this project after a single property projection (of ~100 owned) built in Excel was unable to handle the complete unit-level output and had a runtime of close to an hour.
-<br>
-<br>
-I built the logic into a Python program which output results to a new SQL table available to the Decision Support team consuming the projections for forecasting. While the logic and calculations feeding the forecast are highly proprietary, I have included the video below which shows the GUI application I built on top of the program and bundled into an executable to enable Decision Support staff to independently rerun the program while tweaking model inputs. I used Tkinter to develop the GUI and PyInstaller to create the executable.
-<br>
-<br>
-This project proved to be a disruptive innovation to the forecasting process at AIR Communities, expanding the forecast horizon and predictive capabilities of the financial future of the organization across a greater number of scenarios due to the quick, user-friendly deliverable.
-<br>
-</p>
+<details open>
+  <summary style="font-size: 100%;">Future Lease Projection Application</summary>
+  <p>
+    <br>
+    <strong>Impact:</strong> Replaced a slow, single-property Excel process with a high-performance Python application, enabling multi-scenario portfolio forecasting and reducing calculation time from hours to seconds.
+    <br><br>
+    <strong>Situation:</strong> The existing Excel-based projection tool was unable to handle unit-level data for the full ~100 property portfolio, with a runtime of nearly an hour per property.
+    <br><br>
+    <strong>Task:</strong> I was approached to engineer a scalable solution to create budget and forecasting projection scenarios across the entire portfolio independently.
+    <br><br>
+    <strong>Action:</strong>
+    <ul>
+      <li>Developed a <strong>Python-based engine</strong> to handle complex, unit-level calculations that previously overwhelmed spreadsheet software.</li>
+      <li>Created a custom <strong>GUI using Tkinter</strong> and bundled the program into an executable via <strong>PyInstaller</strong>, allowing non-technical staff to run scenarios on-demand.</li>
+      <li>Integrated output directly into <strong>SQL tables</strong>, streamlining data consumption for the Decision Support team.</li>
+    </ul>
+    <br>
+    <strong>Result:</strong> Transformed the forecasting process into a "disruptive innovation" that expanded the forecast horizon and allowed the organization to analyze a significantly higher volume of financial scenarios with precision.
+  </p>
+  <br>
+</details>
 <br>
 </details>
 
