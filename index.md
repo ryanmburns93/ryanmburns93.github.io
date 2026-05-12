@@ -100,12 +100,10 @@ title: Project Portfolio
       <li><strong>Automated Data Cleansing:</strong> Built-in validation layers ensured that all 34,000+ data points were cleansed and formatted for immediate consumption by the analytics team.</li>
       <li><strong>Strategic Compliance:</strong> After CoStar updated their terms of use to restrict scraping, I proactively led the project in a new direction to acquire similar data via alternate channels, ensuring the business remained in total compliance while maintaining the analytical advantage.</li>
     </ul>
-    <br>
 
   <a href="https://github.com/ryanmburns93/CoStar_Property_Data_Scraping"><img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub"></a>
 
   <a href="https://www.codefactor.io/repository/github/ryanmburns93/CoStar_Property_Data_Scraping"><img src="https://www.codefactor.io/repository/github/ryanmburns93/CoStar_Property_Data_Scraping/badge" alt="CodeFactor Repo Grade" /></a>
-</details>
 
 <hr>
 
@@ -124,15 +122,10 @@ title: Project Portfolio
       <li><strong>End-to-End Visibility:</strong> Produced a comprehensive video demonstration and technical guide to show how AutoML can be integrated into existing sales stacks to drive measurable outreach efficiency.</li>
     </ul>
     <br>
-    <a href="https://github.com/ryanmburns93/AutoML_DataRobot_Demo">
-        <img src="https://img.shields.io/badge/GitHub-View%20on%20GitHub-blue?logo=github" alt="View on GitHub">
-        </a>
-        <a href="https://www.codefactor.io/repository/github/ryanmburns93/automl_datarobot_demo">
-        <img src="https://www.codefactor.io/repository/github/ryanmburns93/automl_datarobot_demo/badge" alt="CodeFactor Repo Grade">
-        </a>
-    </p>
-    <br>
-</details>
+  <a href="https://github.com/ryanmburns93/AutoML_DataRobot_Demo"><img src="https://img.shields.io/badge/GitHub-View%20on%20GitHub-blue?logo=github" alt="View on GitHub"></a>
+
+  <a href="https://www.codefactor.io/repository/github/ryanmburns93/automl_datarobot_demo"><img src="https://www.codefactor.io/repository/github/ryanmburns93/automl_datarobot_demo/badge" alt="CodeFactor Repo Grade"></a>
+
 </details>
 
 <hr>
