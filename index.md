@@ -104,7 +104,7 @@ title: Project Portfolio
   <a href="https://github.com/ryanmburns93/CoStar_Property_Data_Scraping"><img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub"></a>
 
   <a href="https://www.codefactor.io/repository/github/ryanmburns93/CoStar_Property_Data_Scraping"><img src="https://www.codefactor.io/repository/github/ryanmburns93/CoStar_Property_Data_Scraping/badge" alt="CodeFactor Repo Grade" /></a>
-
+</details>
 <hr>
 
 <details>
@@ -125,7 +125,7 @@ title: Project Portfolio
   <a href="https://github.com/ryanmburns93/AutoML_DataRobot_Demo"><img src="https://img.shields.io/badge/GitHub-View%20on%20GitHub-blue?logo=github" alt="View on GitHub"></a>
 
   <a href="https://www.codefactor.io/repository/github/ryanmburns93/automl_datarobot_demo"><img src="https://www.codefactor.io/repository/github/ryanmburns93/automl_datarobot_demo/badge" alt="CodeFactor Repo Grade" /></a>
-
+</details>
 </details>
 
 <hr>
