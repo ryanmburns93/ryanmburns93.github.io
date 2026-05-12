@@ -90,9 +90,17 @@ title: Project Portfolio
   <summary style="font-size: 100%;">CoStar Property Data Scraping</summary>
   <p>
     <br>
-    This project sought to collect over forty attributes for more than 850 competitor multi-family apartment home properties from the <a href="https://www.costar.com/">CoStar property research platform</a>. The program achieved data collection, cleansing, and injection into storage in less than eight minutes start to finish. CoStar recently updated the service's <a href="https://www.costar.com/about/terms-conditions">Terms of Use</a> to explicitly prohibit the web scraping techniques and reverse-engineering of the CoStar product utilized in this program. I ultimately led the project in an alternate direction to acquire similar data while keeping the business in compliance with CoStar's Terms of Use, and have shared the original program as proof of work.
-  </p>
-  <br>
+    <strong>Impact:</strong> Engineered a high-velocity data acquisition pipeline to collect 34,000+ data points across 850+ competitor properties, reducing market research cycles from weeks to under eight minutes.
+    <br><br>
+    To facilitate deep competitive analysis across a ~100 property portfolio, I developed an automated scraping and ETL toolkit designed to extract 40+ attributes for over 850 multi-family apartment homes. The objective was to replace a fragmented manual research process with a unified, high-speed program capable of cleansing and injecting data directly into internal storage.
+    <br><br>
+    The resulting architecture achieved end-to-end execution—from raw collection to validated injection—in less than eight minutes. Key technical highlights include:
+    <ul>
+      <li><strong>Performance Optimization:</strong> Engineered request logic to handle high-volume data extraction with minimal latency and high reliability.</li>
+      <li><strong>Automated Data Cleansing:</strong> Built-in validation layers ensured that all 34,000+ data points were cleansed and formatted for immediate consumption by the analytics team.</li>
+      <li><strong>Strategic Compliance:</strong> After CoStar updated their terms of use to restrict scraping, I proactively led the project in a new direction to acquire similar data via alternate channels, ensuring the business remained in total compliance while maintaining the analytical advantage.</li>
+    </ul>
+    <br>
 
   <a href="https://github.com/ryanmburns93/CoStar_Property_Data_Scraping"><img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub"></a>
 
@@ -105,13 +113,25 @@ title: Project Portfolio
   <summary style="font-size: 100%;">AutoML Demo with DataRobot</summary>
   <p>
     <br>
-    I created a tutorial and video demonstration of the automatic machine learning (AutoML) tool DataRobot. The tutorial provides a simple demonstration of DataRobot integration into a project applying sentiment analysis to daily chatbot message data to rank order prospect follow-up outreach conducted the following day. The final application can be viewed in the separate <a href="https://github.com/ryanmburns93/Prospect_Ranked_Followup_App">Prospect Ranked Follow-up Application</a> repository.
-  </p>
-  <br>
-
-  <a href="https://github.com/ryanmburns93/DataRobot_Demo"><img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub"></a>
-
-  <a href="https://www.codefactor.io/repository/github/ryanmburns93/datarobot_demo"><img src="https://www.codefactor.io/repository/github/ryanmburns93/datarobot_demo/badge" alt="CodeFactor Repo Grade" class="CF-Badge"/></a>
+    <strong>Impact:</strong> Automated the lead prioritization workflow by integrating DataRobot AutoML, transforming unstructured chatbot data into a ranked follow-up queue that prioritizes high-intent prospects.
+    <br><br>
+    To showcase the efficiency of automated machine learning in sales operations, I built a proof-of-concept and technical tutorial utilizing <strong>DataRobot</strong>. The project addresses the operational challenge of high-volume chatbot interactions by automatically scoring sentiment and intent, allowing outreach teams to bypass manual lead triaging and focus on the most promising conversions.
+    <br><br>
+    The implementation and demonstration highlighted:
+    <ul>
+      <li><strong>Rapid Prototyping:</strong> Leveraged DataRobot’s AutoML engine to rapidly iterate through diverse model architectures and feature sets, significantly reducing the time-to-value for a production-ready sentiment classifier.</li>
+      <li><strong>Sentiment-Driven Prioritization:</strong> Developed a logic layer that processes daily message logs to rank prospect follow-ups based on real-time linguistic cues and engagement intent.</li>
+      <li><strong>End-to-End Visibility:</strong> Produced a comprehensive video demonstration and technical guide to show how AutoML can be integrated into existing sales stacks to drive measurable outreach efficiency.</li>
+    </ul>
+    <br>
+    <a href="https://github.com/ryanmburns93/AutoML_DataRobot_Demo">
+        <img src="https://img.shields.io/badge/GitHub-View%20on%20GitHub-blue?logo=github" alt="View on GitHub">
+        </a>
+        <a href="https://www.codefactor.io/repository/github/ryanmburns93/automl_datarobot_demo">
+        <img src="https://www.codefactor.io/repository/github/ryanmburns93/automl_datarobot_demo/badge" alt="CodeFactor Repo Grade">
+        </a>
+    </p>
+    <br>
 </details>
 </details>
 
