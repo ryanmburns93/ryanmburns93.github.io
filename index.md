@@ -19,7 +19,6 @@ title: Project Portfolio
       <li><strong>Operational Excellence:</strong> Empowering organizations to proactively address denials and optimize patient experiences through automated insights.</li>
     </ul>
   </p>
-  <br>
 </details>
 
 <hr>
@@ -38,7 +37,6 @@ title: Project Portfolio
       <li><strong>Operational Value:</strong> By automating the identification of both binary and multi-class denial outcomes, the system enables proactive intervention and significantly reduces manual review time.</li>
     </ul>
   </p>
-  <br>
 </details>
 
 <hr>
@@ -58,7 +56,6 @@ title: Project Portfolio
       <li><strong>Enterprise Integration:</strong> Successfully deployed the final configuration, which resulted in a 5% improvement in AUC and R² scores and now serves as the central embedding layer for the majority of production pipelines.</li>
     </ul>
   </p>
-  <br>
 </details>
 </details>
 
@@ -85,39 +82,36 @@ title: Project Portfolio
     <br>
     <strong>Result:</strong> Transformed the forecasting process into a "disruptive innovation" that expanded the forecast horizon and allowed the organization to analyze a significantly higher volume of financial scenarios with precision.
   </p>
+</details>
+
+<hr>
+
+<details>
+  <summary style="font-size: 100%;">CoStar Property Data Scraping</summary>
+  <p>
+    <br>
+    This project sought to collect over forty attributes for more than 850 competitor multi-family apartment home properties from the <a href="https://www.costar.com/">CoStar property research platform</a>. The program achieved data collection, cleansing, and injection into storage in less than eight minutes start to finish. CoStar recently updated the service's <a href="https://www.costar.com/about/terms-conditions">Terms of Use</a> to explicitly prohibit the web scraping techniques and reverse-engineering of the CoStar product utilized in this program. I ultimately led the project in an alternate direction to acquire similar data while keeping the business in compliance with CoStar's Terms of Use, and have shared the original program as proof of work.
+  </p>
   <br>
-</details>
-<br>
-</details>
 
-<hr>
+  <a href="https://github.com/ryanmburns93/CoStar_Property_Data_Scraping"><img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub"></a>
 
-<details><summary style="font-size: 100%;">CoStar Property Data Scraping</summary>
-<p>
-<br>
-This project sought to collect over forty attributes for more than 850 competitor multi-family apartment home properties from the <a href="https://www.costar.com/">CoStar property research platform</a>. The program achieved data collection, cleansing, and injection into storage in less than eight minutes start to finish. CoStar recently updated the service's <a href="https://www.costar.com/about/terms-conditions">Terms of Use</a> to explicitly prohibit the web scraping techniques and reverse-engineering of the CoStar product utilized in this program. I ultimately led the project in an alternate direction to acquire similar data while keeping the business in compliance with CoStar's Terms of Use, and have shared the original program as proof of work.
-</p>
-<br>
-
-<a href="https://github.com/ryanmburns93/CoStar_Property_Data_Scraping"><img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub">
-</a>
-
-<a href="https://www.codefactor.io/repository/github/ryanmburns93/CoStar_Property_Data_Scraping"><img src="https://www.codefactor.io/repository/github/ryanmburns93/CoStar_Property_Data_Scraping/badge" alt="CodeFactor Repo Grade" /></a>
+  <a href="https://www.codefactor.io/repository/github/ryanmburns93/CoStar_Property_Data_Scraping"><img src="https://www.codefactor.io/repository/github/ryanmburns93/CoStar_Property_Data_Scraping/badge" alt="CodeFactor Repo Grade" /></a>
 </details>
 
 <hr>
 
-<details><summary style="font-size: 100%;">AutoML Demo with DataRobot</summary>
-<p>
-<br>
-I created a tutorial and video demonstration of the automatic machine learning (AutoML) tool DataRobot. The tutorial provides a simple demonstration of DataRobot integration into a project applying sentiment analysis to daily chatbot message data to rank order prospect follow-up outreach conducted the following day. The final application can be viewed in the separate <a href="https://github.com/ryanmburns93/Prospect_Ranked_Followup_App">Prospect Ranked Follow-up Application</a> repository.
-</p>
-<br>
+<details>
+  <summary style="font-size: 100%;">AutoML Demo with DataRobot</summary>
+  <p>
+    <br>
+    I created a tutorial and video demonstration of the automatic machine learning (AutoML) tool DataRobot. The tutorial provides a simple demonstration of DataRobot integration into a project applying sentiment analysis to daily chatbot message data to rank order prospect follow-up outreach conducted the following day. The final application can be viewed in the separate <a href="https://github.com/ryanmburns93/Prospect_Ranked_Followup_App">Prospect Ranked Follow-up Application</a> repository.
+  </p>
+  <br>
 
-<a href="https://github.com/ryanmburns93/DataRobot_Demo"><img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub">
-</a>
+  <a href="https://github.com/ryanmburns93/DataRobot_Demo"><img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub"></a>
 
-<a href="https://www.codefactor.io/repository/github/ryanmburns93/datarobot_demo"><img src="https://www.codefactor.io/repository/github/ryanmburns93/datarobot_demo/badge" alt="CodeFactor Repo Grade" class="CF-Badge"/></a>
+  <a href="https://www.codefactor.io/repository/github/ryanmburns93/datarobot_demo"><img src="https://www.codefactor.io/repository/github/ryanmburns93/datarobot_demo/badge" alt="CodeFactor Repo Grade" class="CF-Badge"/></a>
 </details>
 </details>
 
@@ -185,7 +179,6 @@ Having recently established sensor data accessibility via a web-hosted MongoDB d
     <li>Apply cutting edge ML/AI modeling techniques to train novel predictive algorithms and compare performance to current industry standards.</li>
 </ol>
 </p>
-<br>
 
 <a href="https://github.com/ryanmburns93/cgm-glucose-modeling"><img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub">
 </a>
