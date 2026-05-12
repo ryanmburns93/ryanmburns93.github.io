@@ -96,3 +96,16 @@ details > details {
         padding-right: 0px;
     }
 }
+
+// Project Portfolio Summary Styling
+summary {
+    color: #111111 !important; // Deep black/charcoal
+    font-weight: bold !important;
+    cursor: pointer;
+    outline: none;
+  
+    // Subtle blue hover effect to signal interactivity
+    &:hover {
+      color: #0066cc !important;
+    }
+  }
